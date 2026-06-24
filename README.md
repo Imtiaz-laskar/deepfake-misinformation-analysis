@@ -5,7 +5,7 @@ An end-to-end data analysis project analysing 1,200 deepfake misinformation case
 ---
 
 ## 📊 Live Dashboard
-👉 **[View Looker Studio Dashboard](#)** ← *(replace with your link)*
+👉 ** https://datastudio.google.com/s/v8yqmzr8e2g (#)** 
 
 ---
 
