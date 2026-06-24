@@ -139,7 +139,7 @@ Results across 18 cases:
 
 ## 📂 Dataset
 
-- **Source:** [Kaggle — Deepfake Misinformation Dataset](https://www.kaggle.com)
+- **Source:** [https://www.kaggle.com/datasets/aishricadhiman/deepfake-misinformation-dataset/data?select=Deepfake_Misinformation_Dataset.csv](https://www.kaggle.com)
 - **Size:** 1,200 rows × 10 columns
 - **Period:** 2019–2023
 - **Platforms:** YouTube, TikTok, Facebook, Twitter/X, Instagram, WhatsApp, Reddit, Telegram, Weibo, News Websites
