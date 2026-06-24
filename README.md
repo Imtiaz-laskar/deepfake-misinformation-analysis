@@ -150,8 +150,7 @@ Results across 18 cases:
 ## 👤 Author
 
 **Imtiaz Hussain Laskar**  
-[GitHub](https://imtiaz-laskar.github.io) • [LinkedIn](#) ← *(add your link)*
-
+LinkedIn: https://www.linkedin.com/in/imtiazhlaskar/
 ---
 
 ## 📄 License
