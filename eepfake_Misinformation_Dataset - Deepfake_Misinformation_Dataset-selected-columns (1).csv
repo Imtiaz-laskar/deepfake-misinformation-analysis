@@ -1,0 +1,1201 @@
+RECORD ID,PUBLICATION DATE,DETECTION DATE,CONTENT TYPE,MANIPULATION METHOD,LABEL BINARY,VERACITY CLEAN,TOPIC,PLATFORM,GEOGRAPHICAL REGION,DETECTION LAG (DAYS),DETECTION SPEED
+DMD-00001,7/17/2020,9/18/2020,audio,VoiceConversion,1,mostly-false,Sports,YouTube,Latin America,63,Medium
+DMD-00002,11/20/2020,12/17/2020,video,Authentic,0,mostly-true,Politics,Twitter/X,Middle East,27,Fast
+DMD-00003,10/31/2022,4/15/2023,video,Face2Face,1,mostly-true,Politics,Instagram,Southeast Asia,166,Slow
+DMD-00004,10/11/2019,2/19/2020,image,Splicing,1,pants-fire,War/Conflict,Instagram,East Asia,131,Slow
+DMD-00005,1/13/2023,3/22/2023,video,SimSwap,1,mostly-true,Entertainment,YouTube,Sub-Saharan Africa,68,Medium
+DMD-00006,9/13/2022,1/13/2023,image,StyleGAN2,1,true,Politics,Facebook,Middle East,122,Slow
+DMD-00007,3/6/2019,5/30/2019,video,FaceSwap,1,true,Science,Twitter/X,Latin America,85,Medium
+DMD-00008,7/24/2020,11/20/2020,image,Copy-Move,1,mostly-true,Sports,Facebook,East Asia,119,Slow
+DMD-00009,11/14/2019,1/2/2020,image,GAN-Generated,1,pants-fire,Health/Medical,TikTok,Middle East,49,Medium
+DMD-00010,2/23/2020,8/13/2020,image,Authentic,0,pants-fire,War/Conflict,YouTube,Latin America,172,Slow
+DMD-00011,8/25/2019,9/22/2019,multimodal,Video+Audio-Sync-Fake,1,true,Health/Medical,Facebook,East Asia,28,Fast
+DMD-00012,3/23/2019,6/23/2019,multimodal,Authentic,0,false,Health/Medical,YouTube,Europe,92,Slow
+DMD-00013,8/6/2022,12/15/2022,multimodal,Image+Caption-Mismatch,1,half-true,Politics,TikTok,South Asia,131,Slow
+DMD-00014,9/25/2020,3/15/2021,audio,TTS-Neural,1,half-true,Entertainment,TikTok,Southeast Asia,171,Slow
+DMD-00015,6/19/2023,8/2/2023,image,Authentic,0,false,Health/Medical,Twitter/X,Europe,44,Medium
+DMD-00016,5/14/2023,8/31/2023,text,Authentic,0,half-true,Sports,Telegram,East Asia,109,Slow
+DMD-00017,7/10/2021,9/15/2021,video,DeepFaceLab,1,half-true,War/Conflict,News Website,North America,67,Medium
+DMD-00018,9/3/2020,12/12/2020,image,Authentic,0,mostly-false,Politics,Twitter/X,Middle East,100,Slow
+DMD-00019,4/13/2019,6/19/2019,video,NeuralTextures,1,mostly-true,Politics,TikTok,Middle East,67,Medium
+DMD-00020,5/28/2022,6/27/2022,text,GPT-based,1,false,Sports,Facebook,North America,30,Fast
+DMD-00021,1/26/2019,5/14/2019,video,SimSwap,1,pants-fire,Health/Medical,Facebook,Middle East,108,Slow
+DMD-00022,3/10/2020,6/9/2020,text,GPT-based,1,true,Health/Medical,TikTok,South Asia,91,Slow
+DMD-00023,3/8/2023,7/27/2023,image,Copy-Move,1,mostly-true,Politics,Twitter/X,South Asia,141,Slow
+DMD-00024,4/22/2019,9/11/2019,image,DALL-E-Diffusion,1,mostly-true,Entertainment,Facebook,Middle East,142,Slow
+DMD-00025,8/31/2020,1/29/2021,image,Authentic,0,false,Environment,Instagram,Middle East,151,Slow
+DMD-00026,8/19/2022,9/27/2022,image,Copy-Move,1,mostly-true,Politics,News Website,Latin America,39,Medium
+DMD-00027,7/5/2020,11/30/2020,multimodal,DeepFake-Composite,1,pants-fire,War/Conflict,Facebook,East Asia,148,Slow
+DMD-00028,4/6/2023,4/20/2023,text,Human-Misinformation,1,true,Technology,Facebook,Sub-Saharan Africa,14,Fast
+DMD-00029,5/14/2020,9/8/2020,text,Authentic,0,mostly-true,Finance,Weibo,Southeast Asia,117,Slow
+DMD-00030,1/17/2022,4/24/2022,video,FSGAN,1,pants-fire,Science,Facebook,Southeast Asia,97,Slow
+DMD-00031,8/19/2021,10/26/2021,audio,VoiceConversion,1,mostly-false,Environment,Weibo,Sub-Saharan Africa,68,Medium
+DMD-00032,6/27/2021,8/9/2021,audio,Authentic,0,true,Technology,TikTok,South Asia,43,Medium
+DMD-00033,6/6/2020,11/24/2020,image,DALL-E-Diffusion,1,mostly-false,Crime/Law,Twitter/X,Oceania,171,Slow
+DMD-00034,3/6/2023,3/19/2023,image,Inpainting,1,mostly-false,Politics,Instagram,North America,13,Fast
+DMD-00035,4/30/2021,6/14/2021,text,T5-based,1,mostly-false,Health/Medical,Reddit,Middle East,45,Medium
+DMD-00036,1/24/2021,7/16/2021,video,FaceSwap,1,true,Crime/Law,YouTube,South Asia,173,Slow
+DMD-00037,11/27/2022,4/15/2023,video,Authentic,0,mostly-false,Finance,TikTok,North America,139,Slow
+DMD-00038,5/21/2019,10/10/2019,video,FSGAN,1,mostly-false,War/Conflict,Facebook,Latin America,142,Slow
+DMD-00039,3/30/2019,9/15/2019,image,Authentic,0,pants-fire,Entertainment,Facebook,Middle East,169,Slow
+DMD-00040,4/24/2023,9/13/2023,text,Human-Misinformation,1,false,Politics,YouTube,Sub-Saharan Africa,142,Slow
+DMD-00041,11/6/2020,4/27/2021,image,Inpainting,1,false,Entertainment,Instagram,Latin America,172,Slow
+DMD-00042,2/23/2019,7/29/2019,image,Inpainting,1,mostly-true,Science,Twitter/X,East Asia,156,Slow
+DMD-00043,4/18/2019,5/28/2019,image,StyleGAN2,1,true,Health/Medical,TikTok,North America,40,Medium
+DMD-00044,11/2/2020,12/3/2020,video,Face2Face,1,false,Finance,Reddit,Oceania,31,Medium
+DMD-00045,12/9/2021,12/30/2021,video,FSGAN,1,false,Entertainment,Instagram,Sub-Saharan Africa,21,Fast
+DMD-00046,7/3/2022,9/24/2022,image,Inpainting,1,false,Finance,Facebook,Southeast Asia,83,Medium
+DMD-00047,7/17/2023,12/11/2023,text,T5-based,1,mostly-false,Politics,Twitter/X,South Asia,147,Slow
+DMD-00048,8/18/2022,11/12/2022,image,GAN-Generated,1,mostly-false,Crime/Law,Twitter/X,East Asia,86,Medium
+DMD-00049,2/22/2023,8/17/2023,audio,Authentic,0,mostly-true,Health/Medical,Instagram,Southeast Asia,176,Slow
+DMD-00050,11/30/2023,5/7/2024,image,Inpainting,1,mostly-true,Sports,Facebook,Latin America,159,Slow
+DMD-00051,7/31/2020,11/6/2020,multimodal,Image+Caption-Mismatch,1,mostly-true,Health/Medical,YouTube,Sub-Saharan Africa,98,Slow
+DMD-00052,8/25/2021,2/20/2022,video,Authentic,0,false,Entertainment,Facebook,Middle East,179,Slow
+DMD-00053,12/23/2020,2/23/2021,video,FaceSwap,1,true,Finance,Instagram,Europe,62,Medium
+DMD-00054,11/3/2022,3/2/2023,audio,Authentic,0,mostly-true,Technology,YouTube,Middle East,119,Slow
+DMD-00055,6/19/2021,9/26/2021,image,Splicing,1,half-true,Science,Instagram,Oceania,99,Slow
+DMD-00056,4/28/2019,5/18/2019,audio,GAN-Audio,1,true,Politics,Facebook,East Asia,20,Fast
+DMD-00057,10/5/2020,3/21/2021,video,NeuralTextures,1,false,Politics,Twitter/X,South Asia,167,Slow
+DMD-00058,1/9/2021,5/31/2021,video,NeuralTextures,1,false,Entertainment,TikTok,Sub-Saharan Africa,142,Slow
+DMD-00059,11/27/2021,1/6/2022,text,Authentic,0,mostly-false,Finance,YouTube,Middle East,40,Medium
+DMD-00060,11/5/2023,11/13/2023,text,GPT-based,1,false,Science,Facebook,Sub-Saharan Africa,8,Fast
+DMD-00061,10/22/2019,1/11/2020,image,Splicing,1,pants-fire,Environment,Reddit,Oceania,81,Medium
+DMD-00062,8/14/2021,12/20/2021,video,Authentic,0,mostly-false,Health/Medical,Twitter/X,East Asia,128,Slow
+DMD-00063,6/5/2022,7/6/2022,text,Human-Misinformation,1,mostly-true,Environment,YouTube,Oceania,31,Medium
+DMD-00064,4/30/2022,7/26/2022,image,GAN-Generated,1,mostly-true,Politics,Facebook,Southeast Asia,87,Medium
+DMD-00065,5/11/2020,5/20/2020,image,GAN-Generated,1,pants-fire,Science,Twitter/X,Oceania,9,Fast
+DMD-00066,11/12/2023,5/5/2024,image,Inpainting,1,mostly-true,Politics,TikTok,East Asia,175,Slow
+DMD-00067,8/17/2020,8/28/2020,multimodal,Authentic,0,pants-fire,Science,Telegram,Latin America,11,Fast
+DMD-00068,8/15/2022,8/31/2022,multimodal,Image+Caption-Mismatch,1,mostly-true,War/Conflict,Instagram,Middle East,16,Fast
+DMD-00069,8/21/2023,12/9/2023,text,Authentic,0,true,War/Conflict,TikTok,North America,110,Slow
+DMD-00070,12/24/2023,3/13/2024,image,Copy-Move,1,mostly-false,Sports,Facebook,Southeast Asia,80,Medium
+DMD-00071,11/1/2021,12/23/2021,video,DeepFaceLab,1,false,War/Conflict,TikTok,North America,52,Medium
+DMD-00072,5/22/2019,9/20/2019,multimodal,Authentic,0,true,Health/Medical,TikTok,Southeast Asia,121,Slow
+DMD-00073,7/18/2020,9/5/2020,video,Face2Face,1,mostly-true,Sports,Instagram,South Asia,49,Medium
+DMD-00074,10/21/2019,4/8/2020,video,Face2Face,1,mostly-true,Health/Medical,Reddit,Europe,170,Slow
+DMD-00075,12/21/2021,1/25/2022,image,Splicing,1,mostly-true,Politics,Telegram,South Asia,35,Medium
+DMD-00076,3/10/2023,7/11/2023,video,SimSwap,1,mostly-true,Politics,Reddit,Sub-Saharan Africa,123,Slow
+DMD-00077,8/27/2020,10/6/2020,image,GAN-Generated,1,mostly-false,Politics,Reddit,Oceania,40,Medium
+DMD-00078,8/3/2023,1/22/2024,text,GPT-based,1,half-true,War/Conflict,Facebook,Oceania,172,Slow
+DMD-00079,6/23/2022,11/5/2022,image,DALL-E-Diffusion,1,false,Politics,Reddit,Middle East,135,Slow
+DMD-00080,3/29/2019,5/27/2019,multimodal,Authentic,0,mostly-true,War/Conflict,YouTube,Oceania,59,Medium
+DMD-00081,6/14/2021,8/13/2021,multimodal,Video+Audio-Sync-Fake,1,mostly-true,Politics,YouTube,South Asia,60,Medium
+DMD-00082,7/8/2021,11/28/2021,video,Face2Face,1,half-true,Entertainment,YouTube,South Asia,143,Slow
+DMD-00083,8/8/2019,9/12/2019,image,DALL-E-Diffusion,1,mostly-true,Health/Medical,Reddit,East Asia,35,Medium
+DMD-00084,10/28/2022,3/18/2023,image,Copy-Move,1,half-true,Finance,TikTok,Southeast Asia,141,Slow
+DMD-00085,1/6/2021,7/5/2021,image,StyleGAN2,1,mostly-false,Science,Twitter/X,Sub-Saharan Africa,180,Slow
+DMD-00086,8/3/2019,10/18/2019,video,FaceSwap,1,mostly-true,Crime/Law,Twitter/X,Europe,76,Medium
+DMD-00087,4/9/2021,9/18/2021,multimodal,Video+Audio-Sync-Fake,1,half-true,Technology,TikTok,Latin America,162,Slow
+DMD-00088,10/2/2019,12/22/2019,image,StyleGAN2,1,mostly-true,Health/Medical,Facebook,North America,81,Medium
+DMD-00089,2/24/2022,7/4/2022,video,DeepFaceLab,1,mostly-true,Entertainment,Weibo,Southeast Asia,130,Slow
+DMD-00090,5/20/2021,6/16/2021,image,DALL-E-Diffusion,1,mostly-false,Sports,Reddit,Latin America,27,Fast
+DMD-00091,12/12/2022,2/25/2023,image,DALL-E-Diffusion,1,mostly-false,Entertainment,TikTok,South Asia,75,Medium
+DMD-00092,7/10/2019,10/22/2019,audio,Authentic,0,true,Entertainment,Twitter/X,East Asia,104,Slow
+DMD-00093,3/29/2022,5/2/2022,text,T5-based,1,mostly-true,War/Conflict,Twitter/X,East Asia,34,Medium
+DMD-00094,12/3/2022,2/1/2023,image,Splicing,1,half-true,Health/Medical,Twitter/X,Latin America,60,Medium
+DMD-00095,2/27/2022,3/2/2022,audio,VoiceConversion,1,false,Health/Medical,TikTok,South Asia,3,Fast
+DMD-00096,2/24/2019,8/12/2019,video,Authentic,0,mostly-true,Science,WhatsApp Forward,North America,169,Slow
+DMD-00097,6/5/2023,9/15/2023,video,Authentic,0,false,Technology,YouTube,North America,102,Slow
+DMD-00098,2/27/2023,8/15/2023,image,Splicing,1,half-true,Health/Medical,Facebook,Middle East,169,Slow
+DMD-00099,1/20/2023,2/19/2023,video,FSGAN,1,pants-fire,Politics,Instagram,Oceania,30,Fast
+DMD-00100,9/27/2023,12/16/2023,image,Splicing,1,true,Science,Twitter/X,East Asia,80,Medium
+DMD-00101,9/8/2022,12/14/2022,multimodal,Video+Audio-Sync-Fake,1,false,War/Conflict,Twitter/X,South Asia,97,Slow
+DMD-00102,11/15/2019,12/13/2019,text,Human-Misinformation,1,true,Technology,Twitter/X,North America,28,Fast
+DMD-00103,6/16/2020,7/31/2020,image,Inpainting,1,true,Politics,Telegram,East Asia,45,Medium
+DMD-00104,3/29/2019,7/26/2019,text,T5-based,1,mostly-false,Entertainment,Reddit,Southeast Asia,119,Slow
+DMD-00105,6/21/2023,11/3/2023,image,Inpainting,1,mostly-true,Sports,Facebook,East Asia,135,Slow
+DMD-00106,5/8/2020,7/16/2020,video,Face2Face,1,mostly-false,Politics,News Website,Latin America,69,Medium
+DMD-00107,3/19/2019,4/12/2019,image,DALL-E-Diffusion,1,mostly-true,Health/Medical,WhatsApp Forward,Sub-Saharan Africa,24,Fast
+DMD-00108,12/19/2022,5/12/2023,image,Splicing,1,mostly-true,Environment,YouTube,Sub-Saharan Africa,144,Slow
+DMD-00109,5/26/2020,11/20/2020,image,DALL-E-Diffusion,1,false,Politics,YouTube,Latin America,178,Slow
+DMD-00110,12/15/2019,3/21/2020,multimodal,Video+Audio-Sync-Fake,1,half-true,Politics,YouTube,North America,97,Slow
+DMD-00111,2/28/2020,4/12/2020,image,StyleGAN2,1,false,Entertainment,YouTube,Sub-Saharan Africa,44,Medium
+DMD-00112,3/30/2023,8/28/2023,text,T5-based,1,half-true,Entertainment,WhatsApp Forward,Europe,151,Slow
+DMD-00113,3/9/2020,4/28/2020,multimodal,Video+Audio-Sync-Fake,1,pants-fire,Entertainment,YouTube,South Asia,50,Medium
+DMD-00114,9/21/2021,2/15/2022,image,Splicing,1,false,Politics,WhatsApp Forward,East Asia,147,Slow
+DMD-00115,1/20/2020,5/13/2020,image,Inpainting,1,mostly-true,Technology,Facebook,Middle East,114,Slow
+DMD-00116,12/30/2019,4/30/2020,video,FSGAN,1,true,Environment,TikTok,Middle East,122,Slow
+DMD-00117,12/23/2022,6/6/2023,text,T5-based,1,mostly-false,Finance,Twitter/X,Sub-Saharan Africa,165,Slow
+DMD-00118,7/21/2020,9/26/2020,video,Face2Face,1,false,Health/Medical,Instagram,Sub-Saharan Africa,67,Medium
+DMD-00119,9/6/2020,10/20/2020,multimodal,Image+Caption-Mismatch,1,pants-fire,Politics,Reddit,Southeast Asia,44,Medium
+DMD-00120,10/16/2023,11/24/2023,video,FaceSwap,1,true,Finance,TikTok,East Asia,39,Medium
+DMD-00121,2/3/2021,2/7/2021,video,Face2Face,1,true,Crime/Law,Facebook,Sub-Saharan Africa,4,Fast
+DMD-00122,4/4/2020,5/8/2020,text,GPT-based,1,false,Politics,YouTube,East Asia,34,Medium
+DMD-00123,11/5/2022,4/16/2023,audio,VoiceConversion,1,false,Entertainment,TikTok,Latin America,162,Slow
+DMD-00124,11/25/2019,12/6/2019,video,NeuralTextures,1,false,Technology,Reddit,East Asia,11,Fast
+DMD-00125,12/29/2023,1/10/2024,video,DeepFaceLab,1,mostly-true,Politics,Instagram,Oceania,12,Fast
+DMD-00126,3/11/2022,9/1/2022,text,Human-Misinformation,1,mostly-false,War/Conflict,Instagram,South Asia,174,Slow
+DMD-00127,6/20/2022,7/15/2022,image,Inpainting,1,false,Health/Medical,Twitter/X,South Asia,25,Fast
+DMD-00128,6/11/2019,10/7/2019,video,DeepFaceLab,1,mostly-true,War/Conflict,TikTok,Sub-Saharan Africa,118,Slow
+DMD-00129,1/5/2019,4/3/2019,video,SimSwap,1,mostly-false,Politics,Telegram,Southeast Asia,88,Medium
+DMD-00130,2/16/2023,3/1/2023,multimodal,Video+Audio-Sync-Fake,1,pants-fire,Entertainment,Reddit,Southeast Asia,13,Fast
+DMD-00131,3/5/2020,8/12/2020,image,DALL-E-Diffusion,1,mostly-false,Environment,Facebook,Latin America,160,Slow
+DMD-00132,4/19/2019,10/8/2019,video,NeuralTextures,1,false,War/Conflict,TikTok,North America,172,Slow
+DMD-00133,2/4/2022,2/18/2022,text,Human-Misinformation,1,mostly-true,War/Conflict,Twitter/X,Europe,14,Fast
+DMD-00134,9/24/2019,11/5/2019,image,Copy-Move,1,mostly-true,Politics,Twitter/X,North America,42,Medium
+DMD-00135,3/29/2020,5/23/2020,image,StyleGAN2,1,true,Environment,Twitter/X,Latin America,55,Medium
+DMD-00136,11/24/2021,2/28/2022,audio,VoiceConversion,1,false,Politics,Reddit,Latin America,96,Slow
+DMD-00137,11/6/2022,12/16/2022,text,GPT-based,1,false,Politics,Instagram,North America,40,Medium
+DMD-00138,11/5/2022,1/22/2023,image,Splicing,1,pants-fire,Technology,TikTok,Oceania,78,Medium
+DMD-00139,3/18/2022,8/18/2022,video,FaceSwap,1,pants-fire,Entertainment,TikTok,North America,153,Slow
+DMD-00140,11/8/2020,2/8/2021,video,FSGAN,1,false,Politics,Instagram,Latin America,92,Slow
+DMD-00141,12/26/2019,6/9/2020,video,FSGAN,1,false,Health/Medical,Twitter/X,Sub-Saharan Africa,166,Slow
+DMD-00142,3/23/2021,6/25/2021,image,Copy-Move,1,true,Politics,Telegram,East Asia,94,Slow
+DMD-00143,10/25/2020,11/21/2020,video,Authentic,0,mostly-false,Entertainment,YouTube,Europe,27,Fast
+DMD-00144,1/11/2021,6/15/2021,video,Face2Face,1,mostly-true,Crime/Law,TikTok,Middle East,155,Slow
+DMD-00145,6/25/2019,8/20/2019,audio,TTS-Neural,1,mostly-false,Health/Medical,Twitter/X,North America,56,Medium
+DMD-00146,11/3/2019,4/7/2020,image,Splicing,1,mostly-false,Health/Medical,Instagram,Latin America,156,Slow
+DMD-00147,11/27/2022,4/24/2023,audio,GAN-Audio,1,true,Politics,TikTok,Sub-Saharan Africa,148,Slow
+DMD-00148,6/3/2020,8/9/2020,video,SimSwap,1,false,Science,TikTok,Europe,67,Medium
+DMD-00149,11/28/2022,5/23/2023,video,FSGAN,1,mostly-false,Science,Twitter/X,Middle East,176,Slow
+DMD-00150,11/22/2021,5/20/2022,video,FSGAN,1,mostly-true,Finance,Twitter/X,Oceania,179,Slow
+DMD-00151,5/29/2019,10/5/2019,image,StyleGAN2,1,true,Politics,TikTok,Oceania,129,Slow
+DMD-00152,11/23/2021,4/10/2022,video,Authentic,0,pants-fire,War/Conflict,TikTok,Middle East,138,Slow
+DMD-00153,6/25/2022,9/14/2022,video,NeuralTextures,1,false,Science,TikTok,North America,81,Medium
+DMD-00154,6/15/2020,8/2/2020,video,FSGAN,1,half-true,Politics,News Website,Europe,48,Medium
+DMD-00155,10/6/2023,3/16/2024,image,Authentic,0,true,Politics,Reddit,Oceania,162,Slow
+DMD-00156,5/18/2023,7/30/2023,audio,VoiceConversion,1,mostly-false,Entertainment,Reddit,North America,73,Medium
+DMD-00157,7/1/2020,12/3/2020,video,Face2Face,1,half-true,War/Conflict,YouTube,South Asia,155,Slow
+DMD-00158,5/21/2020,8/2/2020,text,T5-based,1,half-true,War/Conflict,Reddit,East Asia,73,Medium
+DMD-00159,4/10/2020,5/3/2020,text,Human-Misinformation,1,true,Science,Twitter/X,South Asia,23,Fast
+DMD-00160,3/19/2021,5/22/2021,image,Inpainting,1,mostly-false,Finance,Twitter/X,Middle East,64,Medium
+DMD-00161,1/16/2020,2/12/2020,video,FSGAN,1,mostly-true,Health/Medical,YouTube,Oceania,27,Fast
+DMD-00162,3/10/2019,4/30/2019,multimodal,Video+Audio-Sync-Fake,1,false,Politics,YouTube,Latin America,51,Medium
+DMD-00163,11/19/2019,3/26/2020,video,FaceSwap,1,pants-fire,Entertainment,Facebook,South Asia,128,Slow
+DMD-00164,2/8/2023,6/8/2023,video,Face2Face,1,half-true,Entertainment,Facebook,Southeast Asia,120,Slow
+DMD-00165,12/7/2021,5/25/2022,audio,VoiceConversion,1,false,Health/Medical,Twitter/X,Middle East,169,Slow
+DMD-00166,12/28/2023,1/18/2024,video,NeuralTextures,1,pants-fire,Entertainment,Facebook,Sub-Saharan Africa,21,Fast
+DMD-00167,5/24/2021,6/20/2021,audio,GAN-Audio,1,mostly-false,Entertainment,Twitter/X,Sub-Saharan Africa,27,Fast
+DMD-00168,3/24/2021,3/25/2021,multimodal,Image+Caption-Mismatch,1,pants-fire,War/Conflict,Instagram,Latin America,1,Fast
+DMD-00169,7/15/2019,12/15/2019,audio,GAN-Audio,1,pants-fire,Finance,TikTok,North America,153,Slow
+DMD-00170,11/30/2022,1/26/2023,image,Splicing,1,half-true,Science,TikTok,Sub-Saharan Africa,57,Medium
+DMD-00171,2/23/2022,7/31/2022,image,Inpainting,1,half-true,Technology,Instagram,Middle East,158,Slow
+DMD-00172,11/16/2019,12/8/2019,video,SimSwap,1,false,Politics,TikTok,Middle East,22,Fast
+DMD-00173,6/19/2022,8/28/2022,video,DeepFaceLab,1,half-true,Environment,YouTube,South Asia,70,Medium
+DMD-00174,12/11/2020,6/5/2021,image,DALL-E-Diffusion,1,mostly-false,Health/Medical,Twitter/X,Europe,176,Slow
+DMD-00175,2/28/2020,8/14/2020,video,FSGAN,1,half-true,Science,Facebook,Oceania,168,Slow
+DMD-00176,8/7/2019,9/10/2019,video,DeepFaceLab,1,mostly-true,Politics,Instagram,North America,34,Medium
+DMD-00177,4/1/2023,5/24/2023,audio,Authentic,0,mostly-true,Finance,Instagram,Middle East,53,Medium
+DMD-00178,7/13/2021,11/7/2021,text,Human-Misinformation,1,half-true,Science,TikTok,North America,117,Slow
+DMD-00179,1/19/2023,5/28/2023,text,T5-based,1,pants-fire,Sports,Instagram,Europe,129,Slow
+DMD-00180,2/25/2021,7/6/2021,video,FSGAN,1,false,Politics,Facebook,Southeast Asia,131,Slow
+DMD-00181,9/12/2022,1/12/2023,image,DALL-E-Diffusion,1,mostly-true,Politics,YouTube,Oceania,122,Slow
+DMD-00182,3/18/2022,8/9/2022,audio,GAN-Audio,1,true,War/Conflict,Twitter/X,Southeast Asia,144,Slow
+DMD-00183,2/3/2023,7/15/2023,image,StyleGAN2,1,half-true,Sports,Reddit,South Asia,162,Slow
+DMD-00184,6/20/2023,7/21/2023,video,NeuralTextures,1,pants-fire,Technology,Twitter/X,Latin America,31,Medium
+DMD-00185,10/6/2019,2/7/2020,image,StyleGAN2,1,false,Politics,YouTube,Latin America,124,Slow
+DMD-00186,5/25/2022,9/2/2022,image,DALL-E-Diffusion,1,true,Politics,YouTube,Southeast Asia,100,Slow
+DMD-00187,9/17/2021,1/30/2022,video,Face2Face,1,false,Politics,Instagram,Middle East,135,Slow
+DMD-00188,5/2/2023,8/23/2023,video,FSGAN,1,true,Environment,YouTube,East Asia,113,Slow
+DMD-00189,7/13/2022,1/6/2023,audio,Authentic,0,false,Environment,Facebook,Southeast Asia,177,Slow
+DMD-00190,4/3/2020,5/10/2020,image,DALL-E-Diffusion,1,mostly-false,Politics,YouTube,Latin America,37,Medium
+DMD-00191,12/27/2021,4/25/2022,audio,GAN-Audio,1,false,Entertainment,Twitter/X,Middle East,119,Slow
+DMD-00192,4/27/2022,9/27/2022,image,Copy-Move,1,mostly-false,Politics,YouTube,Europe,153,Slow
+DMD-00193,10/27/2022,1/17/2023,image,DALL-E-Diffusion,1,pants-fire,Politics,Facebook,Oceania,82,Medium
+DMD-00194,4/23/2022,8/2/2022,video,NeuralTextures,1,true,Politics,Instagram,Latin America,101,Slow
+DMD-00195,7/19/2021,11/27/2021,multimodal,DeepFake-Composite,1,mostly-false,Finance,Twitter/X,Middle East,131,Slow
+DMD-00196,4/2/2022,6/21/2022,audio,TTS-Neural,1,false,Finance,Twitter/X,Latin America,80,Medium
+DMD-00197,9/6/2022,11/20/2022,image,Inpainting,1,false,Entertainment,Instagram,Latin America,75,Medium
+DMD-00198,11/12/2019,3/18/2020,video,Authentic,0,false,Health/Medical,Twitter/X,Southeast Asia,127,Slow
+DMD-00199,10/8/2020,2/21/2021,text,T5-based,1,mostly-false,Politics,Twitter/X,Sub-Saharan Africa,136,Slow
+DMD-00200,1/25/2019,5/11/2019,audio,Authentic,0,pants-fire,Entertainment,News Website,Oceania,106,Slow
+DMD-00201,8/1/2022,11/26/2022,image,Authentic,0,half-true,Environment,TikTok,Europe,117,Slow
+DMD-00202,8/10/2022,9/7/2022,text,GPT-based,1,false,Environment,TikTok,Southeast Asia,28,Fast
+DMD-00203,5/19/2023,6/6/2023,image,GAN-Generated,1,false,Finance,YouTube,North America,18,Fast
+DMD-00204,7/15/2022,1/8/2023,audio,Authentic,0,mostly-true,Entertainment,Reddit,Southeast Asia,177,Slow
+DMD-00205,3/29/2019,7/11/2019,video,DeepFaceLab,1,half-true,Politics,TikTok,Latin America,104,Slow
+DMD-00206,7/6/2023,8/27/2023,text,GPT-based,1,false,Entertainment,Facebook,Oceania,52,Medium
+DMD-00207,5/12/2023,6/22/2023,text,Human-Misinformation,1,mostly-false,Science,Telegram,Middle East,41,Medium
+DMD-00208,7/8/2022,9/24/2022,image,Authentic,0,pants-fire,Science,YouTube,Sub-Saharan Africa,78,Medium
+DMD-00209,11/15/2020,4/22/2021,video,NeuralTextures,1,false,Technology,Twitter/X,Europe,158,Slow
+DMD-00210,6/2/2022,9/27/2022,text,GPT-based,1,mostly-true,Health/Medical,YouTube,Latin America,117,Slow
+DMD-00211,4/15/2020,5/8/2020,image,Copy-Move,1,pants-fire,Science,YouTube,Oceania,23,Fast
+DMD-00212,7/17/2023,1/12/2024,image,Splicing,1,true,Science,Instagram,Latin America,179,Slow
+DMD-00213,7/21/2022,7/22/2022,video,NeuralTextures,1,false,Politics,WhatsApp Forward,South Asia,1,Fast
+DMD-00214,12/10/2022,2/2/2023,multimodal,DeepFake-Composite,1,mostly-true,Crime/Law,YouTube,Europe,54,Medium
+DMD-00215,7/8/2022,7/14/2022,video,Face2Face,1,half-true,Health/Medical,YouTube,Latin America,6,Fast
+DMD-00216,4/26/2023,5/9/2023,image,Authentic,0,pants-fire,Politics,Facebook,Oceania,13,Fast
+DMD-00217,4/23/2023,5/31/2023,video,Authentic,0,true,Politics,TikTok,Europe,38,Medium
+DMD-00218,12/14/2021,2/9/2022,image,DALL-E-Diffusion,1,half-true,Health/Medical,YouTube,East Asia,57,Medium
+DMD-00219,12/24/2023,4/16/2024,image,DALL-E-Diffusion,1,pants-fire,Finance,Twitter/X,North America,114,Slow
+DMD-00220,3/9/2022,4/14/2022,video,NeuralTextures,1,pants-fire,Finance,YouTube,Sub-Saharan Africa,36,Medium
+DMD-00221,9/11/2021,2/3/2022,image,Splicing,1,half-true,Finance,News Website,North America,145,Slow
+DMD-00222,7/10/2022,8/26/2022,video,Face2Face,1,mostly-true,Politics,Facebook,Latin America,47,Medium
+DMD-00223,9/29/2023,2/13/2024,audio,Authentic,0,mostly-true,Health/Medical,Instagram,Europe,137,Slow
+DMD-00224,3/5/2020,4/8/2020,audio,TTS-Neural,1,pants-fire,Politics,Twitter/X,North America,34,Medium
+DMD-00225,2/14/2020,4/2/2020,image,Inpainting,1,false,Crime/Law,YouTube,Sub-Saharan Africa,48,Medium
+DMD-00226,10/10/2023,2/9/2024,text,Authentic,0,true,War/Conflict,TikTok,Middle East,122,Slow
+DMD-00227,5/14/2022,8/2/2022,video,Face2Face,1,false,Environment,YouTube,East Asia,80,Medium
+DMD-00228,4/21/2020,8/8/2020,text,T5-based,1,true,Health/Medical,Facebook,Middle East,109,Slow
+DMD-00229,10/20/2022,10/27/2022,video,FaceSwap,1,true,Science,Telegram,East Asia,7,Fast
+DMD-00230,2/14/2022,8/2/2022,image,StyleGAN2,1,half-true,Entertainment,WhatsApp Forward,Middle East,169,Slow
+DMD-00231,4/3/2019,5/6/2019,video,FaceSwap,1,mostly-true,Science,Reddit,Middle East,33,Medium
+DMD-00232,10/10/2020,1/15/2021,audio,GAN-Audio,1,pants-fire,Politics,TikTok,Oceania,97,Slow
+DMD-00233,8/31/2020,1/25/2021,video,Face2Face,1,mostly-false,Science,Instagram,Europe,147,Slow
+DMD-00234,3/12/2020,8/29/2020,text,Human-Misinformation,1,mostly-true,War/Conflict,Twitter/X,East Asia,170,Slow
+DMD-00235,4/24/2021,7/2/2021,video,Face2Face,1,false,Crime/Law,Facebook,North America,69,Medium
+DMD-00236,4/13/2021,7/16/2021,image,Authentic,0,mostly-false,Sports,Twitter/X,Latin America,94,Slow
+DMD-00237,3/22/2020,4/28/2020,audio,Authentic,0,false,Politics,Facebook,East Asia,37,Medium
+DMD-00238,2/23/2023,8/12/2023,text,GPT-based,1,pants-fire,Health/Medical,Telegram,Sub-Saharan Africa,170,Slow
+DMD-00239,10/11/2020,3/25/2021,video,NeuralTextures,1,half-true,Politics,YouTube,Middle East,165,Slow
+DMD-00240,7/10/2022,9/27/2022,video,NeuralTextures,1,half-true,Politics,Reddit,Oceania,79,Medium
+DMD-00241,8/18/2022,1/22/2023,multimodal,Authentic,0,mostly-false,Crime/Law,Twitter/X,Sub-Saharan Africa,157,Slow
+DMD-00242,6/20/2020,8/20/2020,video,Face2Face,1,pants-fire,Crime/Law,News Website,Middle East,61,Medium
+DMD-00243,9/11/2020,12/22/2020,video,FSGAN,1,mostly-true,Technology,Telegram,Southeast Asia,102,Slow
+DMD-00244,11/6/2019,3/28/2020,audio,TTS-Neural,1,pants-fire,Politics,Twitter/X,Sub-Saharan Africa,143,Slow
+DMD-00245,9/11/2019,12/10/2019,text,Authentic,0,pants-fire,Politics,TikTok,Sub-Saharan Africa,90,Medium
+DMD-00246,11/11/2019,11/19/2019,multimodal,Authentic,0,false,Politics,Instagram,South Asia,8,Fast
+DMD-00247,6/4/2021,8/23/2021,video,NeuralTextures,1,mostly-false,War/Conflict,Telegram,Southeast Asia,80,Medium
+DMD-00248,6/30/2023,10/31/2023,image,StyleGAN2,1,half-true,Finance,Instagram,North America,123,Slow
+DMD-00249,4/3/2019,4/25/2019,text,Authentic,0,half-true,Politics,Twitter/X,North America,22,Fast
+DMD-00250,3/5/2023,8/7/2023,image,Inpainting,1,mostly-false,Politics,Instagram,Europe,155,Slow
+DMD-00251,6/30/2021,11/2/2021,text,Authentic,0,half-true,Finance,TikTok,Sub-Saharan Africa,125,Slow
+DMD-00252,5/14/2021,10/9/2021,audio,TTS-Neural,1,mostly-true,Health/Medical,Twitter/X,Europe,148,Slow
+DMD-00253,9/7/2022,1/5/2023,image,GAN-Generated,1,half-true,Crime/Law,Twitter/X,Europe,120,Slow
+DMD-00254,11/21/2019,1/5/2020,text,T5-based,1,mostly-true,War/Conflict,Facebook,Sub-Saharan Africa,45,Medium
+DMD-00255,9/20/2023,10/19/2023,image,Copy-Move,1,pants-fire,Politics,Twitter/X,Latin America,29,Fast
+DMD-00256,1/14/2019,3/18/2019,multimodal,Authentic,0,mostly-true,Science,Instagram,East Asia,63,Medium
+DMD-00257,3/22/2022,4/6/2022,text,GPT-based,1,mostly-false,Science,Twitter/X,Latin America,15,Fast
+DMD-00258,1/5/2022,4/1/2022,text,GPT-based,1,false,Health/Medical,Facebook,Southeast Asia,86,Medium
+DMD-00259,9/11/2019,9/24/2019,video,NeuralTextures,1,true,Health/Medical,Instagram,North America,13,Fast
+DMD-00260,10/28/2019,2/14/2020,text,T5-based,1,half-true,Crime/Law,Facebook,Oceania,109,Slow
+DMD-00261,9/22/2019,2/1/2020,video,SimSwap,1,false,Politics,TikTok,North America,132,Slow
+DMD-00262,9/28/2021,9/29/2021,video,DeepFaceLab,1,mostly-false,Science,Twitter/X,East Asia,1,Fast
+DMD-00263,8/15/2022,9/7/2022,text,Authentic,0,mostly-true,Science,Telegram,Europe,23,Fast
+DMD-00264,5/17/2020,10/13/2020,video,DeepFaceLab,1,half-true,Politics,TikTok,South Asia,149,Slow
+DMD-00265,4/25/2021,7/17/2021,image,Splicing,1,mostly-false,Environment,YouTube,Southeast Asia,83,Medium
+DMD-00266,9/15/2019,12/2/2019,text,Human-Misinformation,1,mostly-false,Politics,YouTube,Oceania,78,Medium
+DMD-00267,9/22/2023,3/2/2024,audio,Authentic,0,half-true,Sports,Reddit,Oceania,162,Slow
+DMD-00268,9/18/2022,12/10/2022,audio,VoiceConversion,1,mostly-false,Sports,TikTok,North America,83,Medium
+DMD-00269,12/23/2020,3/30/2021,audio,GAN-Audio,1,true,Finance,Twitter/X,Sub-Saharan Africa,97,Slow
+DMD-00270,12/12/2022,5/17/2023,video,Face2Face,1,mostly-false,Crime/Law,TikTok,Southeast Asia,156,Slow
+DMD-00271,8/5/2022,1/25/2023,image,Authentic,0,mostly-true,Politics,TikTok,North America,173,Slow
+DMD-00272,5/26/2020,7/16/2020,image,StyleGAN2,1,pants-fire,Sports,TikTok,Sub-Saharan Africa,51,Medium
+DMD-00273,3/10/2019,6/15/2019,video,FaceSwap,1,false,Technology,TikTok,East Asia,97,Slow
+DMD-00274,1/30/2020,2/27/2020,image,Splicing,1,half-true,Crime/Law,Instagram,South Asia,28,Fast
+DMD-00275,12/3/2020,2/16/2021,video,Face2Face,1,half-true,Politics,Facebook,Latin America,75,Medium
+DMD-00276,4/16/2020,8/14/2020,video,Face2Face,1,pants-fire,War/Conflict,Twitter/X,Southeast Asia,120,Slow
+DMD-00277,2/12/2019,8/5/2019,text,Authentic,0,false,Politics,Reddit,Europe,174,Slow
+DMD-00278,5/29/2021,11/8/2021,audio,TTS-Neural,1,pants-fire,Environment,Twitter/X,North America,163,Slow
+DMD-00279,3/19/2023,9/1/2023,video,NeuralTextures,1,false,Health/Medical,YouTube,Sub-Saharan Africa,166,Slow
+DMD-00280,11/15/2021,4/24/2022,video,FaceSwap,1,mostly-false,Health/Medical,TikTok,South Asia,160,Slow
+DMD-00281,5/22/2022,6/27/2022,text,GPT-based,1,mostly-true,Health/Medical,Twitter/X,Sub-Saharan Africa,36,Medium
+DMD-00282,1/19/2023,5/18/2023,text,Authentic,0,half-true,Health/Medical,Facebook,Sub-Saharan Africa,119,Slow
+DMD-00283,3/8/2022,3/17/2022,video,FSGAN,1,true,Entertainment,YouTube,Sub-Saharan Africa,9,Fast
+DMD-00284,8/4/2020,9/26/2020,video,Authentic,0,pants-fire,Finance,Facebook,Sub-Saharan Africa,53,Medium
+DMD-00285,3/28/2021,8/30/2021,video,FaceSwap,1,half-true,Environment,Twitter/X,Middle East,155,Slow
+DMD-00286,7/14/2020,12/22/2020,video,Authentic,0,mostly-false,Science,Twitter/X,East Asia,161,Slow
+DMD-00287,10/7/2019,12/30/2019,video,SimSwap,1,false,Environment,Facebook,East Asia,84,Medium
+DMD-00288,9/13/2022,10/10/2022,image,Inpainting,1,false,Technology,YouTube,Europe,27,Fast
+DMD-00289,1/24/2020,7/2/2020,video,FSGAN,1,mostly-false,Crime/Law,Reddit,Europe,160,Slow
+DMD-00290,10/20/2022,4/16/2023,multimodal,DeepFake-Composite,1,mostly-true,Health/Medical,TikTok,South Asia,178,Slow
+DMD-00291,10/2/2019,12/13/2019,image,Authentic,0,mostly-false,Politics,Facebook,Oceania,72,Medium
+DMD-00292,12/22/2019,5/22/2020,multimodal,Video+Audio-Sync-Fake,1,pants-fire,Entertainment,Instagram,East Asia,152,Slow
+DMD-00293,2/6/2022,3/23/2022,video,FSGAN,1,half-true,Finance,TikTok,East Asia,45,Medium
+DMD-00294,2/2/2020,5/24/2020,image,Inpainting,1,true,War/Conflict,YouTube,Middle East,112,Slow
+DMD-00295,9/19/2022,10/31/2022,video,FSGAN,1,mostly-false,Sports,Twitter/X,Europe,42,Medium
+DMD-00296,12/11/2019,4/15/2020,image,Splicing,1,mostly-true,Environment,Facebook,Middle East,126,Slow
+DMD-00297,2/12/2021,3/16/2021,video,Face2Face,1,pants-fire,Sports,News Website,Middle East,32,Medium
+DMD-00298,7/25/2019,7/26/2019,video,Face2Face,1,true,Health/Medical,YouTube,Latin America,1,Fast
+DMD-00299,6/8/2022,6/29/2022,image,Splicing,1,pants-fire,Crime/Law,Facebook,Oceania,21,Fast
+DMD-00300,12/16/2019,6/2/2020,image,DALL-E-Diffusion,1,mostly-false,Environment,YouTube,East Asia,169,Slow
+DMD-00301,5/27/2023,10/18/2023,audio,GAN-Audio,1,mostly-true,Health/Medical,Instagram,South Asia,144,Slow
+DMD-00302,4/29/2023,8/1/2023,image,Copy-Move,1,false,Technology,Reddit,North America,94,Slow
+DMD-00303,10/3/2023,2/27/2024,audio,VoiceConversion,1,false,Politics,Facebook,East Asia,147,Slow
+DMD-00304,1/27/2022,5/8/2022,text,Authentic,0,false,War/Conflict,Facebook,Europe,101,Slow
+DMD-00305,3/22/2020,5/12/2020,video,FaceSwap,1,false,Sports,TikTok,Sub-Saharan Africa,51,Medium
+DMD-00306,1/22/2021,1/25/2021,video,SimSwap,1,pants-fire,Sports,Twitter/X,Latin America,3,Fast
+DMD-00307,9/27/2021,10/14/2021,image,GAN-Generated,1,mostly-true,Politics,Facebook,Latin America,17,Fast
+DMD-00308,1/19/2022,3/4/2022,image,Splicing,1,mostly-true,Politics,Reddit,South Asia,44,Medium
+DMD-00309,5/18/2022,10/7/2022,text,Authentic,0,true,War/Conflict,Weibo,Sub-Saharan Africa,142,Slow
+DMD-00310,5/23/2022,7/4/2022,audio,Authentic,0,half-true,Crime/Law,Twitter/X,North America,42,Medium
+DMD-00311,8/10/2023,12/14/2023,audio,TTS-Neural,1,mostly-false,Sports,Facebook,Latin America,126,Slow
+DMD-00312,12/31/2022,2/9/2023,video,SimSwap,1,pants-fire,Health/Medical,TikTok,North America,40,Medium
+DMD-00313,6/7/2019,8/8/2019,text,Human-Misinformation,1,false,Science,TikTok,Oceania,62,Medium
+DMD-00314,5/15/2020,11/1/2020,audio,GAN-Audio,1,pants-fire,Science,Twitter/X,East Asia,170,Slow
+DMD-00315,4/19/2023,5/20/2023,video,FSGAN,1,half-true,Politics,Facebook,Oceania,31,Medium
+DMD-00316,5/27/2020,7/24/2020,video,DeepFaceLab,1,pants-fire,Crime/Law,WhatsApp Forward,Europe,58,Medium
+DMD-00317,3/19/2023,6/30/2023,audio,VoiceConversion,1,mostly-true,Entertainment,Instagram,South Asia,103,Slow
+DMD-00318,11/5/2023,1/12/2024,video,DeepFaceLab,1,mostly-false,Health/Medical,Twitter/X,Southeast Asia,68,Medium
+DMD-00319,7/28/2020,10/26/2020,video,Face2Face,1,true,Health/Medical,Reddit,Sub-Saharan Africa,90,Medium
+DMD-00320,4/11/2022,7/19/2022,video,Face2Face,1,pants-fire,War/Conflict,Reddit,Middle East,99,Slow
+DMD-00321,6/12/2021,6/30/2021,image,StyleGAN2,1,half-true,Finance,Twitter/X,North America,18,Fast
+DMD-00322,11/16/2021,3/13/2022,video,Authentic,0,pants-fire,Environment,Twitter/X,Europe,117,Slow
+DMD-00323,1/22/2019,4/24/2019,multimodal,DeepFake-Composite,1,false,Health/Medical,Telegram,North America,92,Slow
+DMD-00324,10/1/2021,11/17/2021,text,GPT-based,1,mostly-false,Politics,Twitter/X,North America,47,Medium
+DMD-00325,6/10/2023,7/8/2023,video,Authentic,0,half-true,Politics,Twitter/X,South Asia,28,Fast
+DMD-00326,11/2/2022,2/9/2023,video,Authentic,0,mostly-true,Technology,Twitter/X,Southeast Asia,99,Slow
+DMD-00327,6/4/2023,6/5/2023,text,Authentic,0,half-true,Entertainment,Facebook,Oceania,1,Fast
+DMD-00328,5/18/2020,8/25/2020,video,Authentic,0,mostly-true,Politics,Reddit,Oceania,99,Slow
+DMD-00329,10/10/2019,11/10/2019,text,GPT-based,1,mostly-true,War/Conflict,Instagram,Sub-Saharan Africa,31,Medium
+DMD-00330,11/24/2022,11/28/2022,video,DeepFaceLab,1,true,Politics,TikTok,Europe,4,Fast
+DMD-00331,7/31/2023,1/25/2024,image,GAN-Generated,1,false,Health/Medical,Facebook,Middle East,178,Slow
+DMD-00332,2/28/2022,7/2/2022,multimodal,DeepFake-Composite,1,mostly-true,Science,Reddit,North America,124,Slow
+DMD-00333,4/24/2023,6/5/2023,text,Human-Misinformation,1,false,Health/Medical,Weibo,Middle East,42,Medium
+DMD-00334,1/31/2019,3/9/2019,multimodal,Video+Audio-Sync-Fake,1,half-true,Entertainment,TikTok,South Asia,37,Medium
+DMD-00335,10/29/2022,11/9/2022,image,Authentic,0,mostly-false,Environment,Facebook,North America,11,Fast
+DMD-00336,2/13/2020,5/26/2020,text,Authentic,0,half-true,Science,Facebook,North America,103,Slow
+DMD-00337,7/25/2022,9/9/2022,audio,VoiceConversion,1,half-true,War/Conflict,YouTube,East Asia,46,Medium
+DMD-00338,11/27/2022,3/19/2023,audio,VoiceConversion,1,false,Health/Medical,YouTube,Southeast Asia,112,Slow
+DMD-00339,4/12/2021,6/19/2021,video,Authentic,0,true,Sports,YouTube,Oceania,68,Medium
+DMD-00340,7/22/2021,11/5/2021,audio,GAN-Audio,1,false,War/Conflict,Facebook,South Asia,106,Slow
+DMD-00341,7/9/2023,8/5/2023,text,Authentic,0,false,Entertainment,YouTube,Latin America,27,Fast
+DMD-00342,8/8/2023,1/21/2024,text,T5-based,1,mostly-true,Health/Medical,Reddit,Latin America,166,Slow
+DMD-00343,5/10/2020,9/30/2020,multimodal,Authentic,0,true,Science,TikTok,Middle East,143,Slow
+DMD-00344,2/22/2021,3/1/2021,text,GPT-based,1,mostly-false,Health/Medical,Telegram,Middle East,7,Fast
+DMD-00345,5/5/2022,6/6/2022,video,NeuralTextures,1,true,Crime/Law,Weibo,Southeast Asia,32,Medium
+DMD-00346,9/7/2019,10/27/2019,video,SimSwap,1,false,Science,News Website,Oceania,50,Medium
+DMD-00347,3/15/2021,4/11/2021,text,Human-Misinformation,1,mostly-false,Health/Medical,TikTok,North America,27,Fast
+DMD-00348,8/24/2020,1/26/2021,image,Inpainting,1,true,Health/Medical,Facebook,Latin America,155,Slow
+DMD-00349,12/15/2021,2/9/2022,image,Inpainting,1,half-true,Politics,YouTube,South Asia,56,Medium
+DMD-00350,10/20/2023,3/16/2024,video,SimSwap,1,half-true,War/Conflict,Facebook,Latin America,148,Slow
+DMD-00351,3/1/2019,4/28/2019,video,FSGAN,1,mostly-false,Sports,Twitter/X,Europe,58,Medium
+DMD-00352,3/23/2023,8/20/2023,video,DeepFaceLab,1,false,Politics,YouTube,Oceania,150,Slow
+DMD-00353,1/20/2020,5/24/2020,video,DeepFaceLab,1,false,Finance,YouTube,Latin America,125,Slow
+DMD-00354,2/28/2019,6/30/2019,text,GPT-based,1,half-true,Health/Medical,Facebook,Middle East,122,Slow
+DMD-00355,8/16/2022,10/19/2022,image,Inpainting,1,mostly-true,Sports,Twitter/X,South Asia,64,Medium
+DMD-00356,12/5/2022,5/14/2023,video,NeuralTextures,1,pants-fire,Finance,Facebook,South Asia,160,Slow
+DMD-00357,9/7/2023,11/5/2023,image,Authentic,0,false,Environment,TikTok,Europe,59,Medium
+DMD-00358,10/20/2023,12/16/2023,video,Authentic,0,half-true,Crime/Law,Twitter/X,North America,57,Medium
+DMD-00359,7/20/2021,12/13/2021,image,Copy-Move,1,true,Health/Medical,Facebook,Middle East,146,Slow
+DMD-00360,10/26/2023,3/3/2024,video,Face2Face,1,mostly-true,Health/Medical,Facebook,Sub-Saharan Africa,129,Slow
+DMD-00361,10/5/2019,1/20/2020,audio,VoiceConversion,1,pants-fire,War/Conflict,Facebook,East Asia,107,Slow
+DMD-00362,4/20/2023,8/6/2023,video,FSGAN,1,mostly-true,Crime/Law,YouTube,Middle East,108,Slow
+DMD-00363,9/6/2019,2/3/2020,audio,Authentic,0,half-true,War/Conflict,YouTube,North America,150,Slow
+DMD-00364,8/28/2021,9/4/2021,video,Face2Face,1,false,Entertainment,Facebook,South Asia,7,Fast
+DMD-00365,3/12/2021,6/19/2021,image,Inpainting,1,false,Health/Medical,WhatsApp Forward,East Asia,99,Slow
+DMD-00366,3/10/2021,7/20/2021,video,SimSwap,1,false,Entertainment,YouTube,South Asia,132,Slow
+DMD-00367,4/3/2019,4/11/2019,image,Splicing,1,true,War/Conflict,TikTok,Latin America,8,Fast
+DMD-00368,7/29/2022,12/23/2022,audio,TTS-Neural,1,pants-fire,Politics,YouTube,Europe,147,Slow
+DMD-00369,11/28/2020,1/15/2021,image,Authentic,0,half-true,Politics,Facebook,North America,48,Medium
+DMD-00370,8/24/2023,10/28/2023,text,T5-based,1,mostly-false,Crime/Law,WhatsApp Forward,Middle East,65,Medium
+DMD-00371,5/2/2019,6/7/2019,video,Authentic,0,half-true,Politics,Instagram,North America,36,Medium
+DMD-00372,5/20/2023,7/18/2023,video,NeuralTextures,1,mostly-true,Science,YouTube,South Asia,59,Medium
+DMD-00373,6/13/2023,10/29/2023,audio,Authentic,0,mostly-false,Science,YouTube,North America,138,Slow
+DMD-00374,1/1/2021,2/27/2021,image,GAN-Generated,1,pants-fire,Technology,Facebook,South Asia,57,Medium
+DMD-00375,3/15/2019,5/15/2019,audio,GAN-Audio,1,mostly-false,Entertainment,Reddit,East Asia,61,Medium
+DMD-00376,4/18/2019,10/5/2019,video,NeuralTextures,1,true,Health/Medical,Instagram,Sub-Saharan Africa,170,Slow
+DMD-00377,3/9/2022,7/20/2022,image,Inpainting,1,false,Politics,Twitter/X,Middle East,133,Slow
+DMD-00378,1/19/2019,5/19/2019,image,StyleGAN2,1,mostly-true,Politics,Reddit,Middle East,120,Slow
+DMD-00379,6/20/2021,11/16/2021,video,NeuralTextures,1,false,Politics,Facebook,South Asia,149,Slow
+DMD-00380,8/28/2022,12/2/2022,video,Authentic,0,half-true,Crime/Law,YouTube,North America,96,Slow
+DMD-00381,1/27/2022,5/15/2022,image,Inpainting,1,mostly-true,Crime/Law,TikTok,Southeast Asia,108,Slow
+DMD-00382,6/6/2019,9/7/2019,video,FSGAN,1,mostly-false,Sports,Telegram,Latin America,93,Slow
+DMD-00383,8/20/2021,9/15/2021,video,FSGAN,1,false,Health/Medical,Facebook,East Asia,26,Fast
+DMD-00384,10/3/2019,11/19/2019,video,NeuralTextures,1,mostly-false,Entertainment,Telegram,South Asia,47,Medium
+DMD-00385,2/13/2023,4/8/2023,multimodal,Video+Audio-Sync-Fake,1,mostly-false,Politics,Facebook,Latin America,54,Medium
+DMD-00386,6/30/2021,11/11/2021,multimodal,Image+Caption-Mismatch,1,true,War/Conflict,Facebook,Europe,134,Slow
+DMD-00387,7/8/2022,7/11/2022,image,Authentic,0,half-true,Entertainment,TikTok,Sub-Saharan Africa,3,Fast
+DMD-00388,4/25/2020,10/6/2020,image,Inpainting,1,half-true,Science,Twitter/X,East Asia,164,Slow
+DMD-00389,3/26/2021,4/28/2021,audio,TTS-Neural,1,false,Health/Medical,Twitter/X,East Asia,33,Medium
+DMD-00390,1/31/2023,3/29/2023,text,T5-based,1,false,Environment,Instagram,Southeast Asia,57,Medium
+DMD-00391,11/18/2019,4/4/2020,video,Face2Face,1,half-true,Sports,Reddit,Latin America,138,Slow
+DMD-00392,2/11/2019,2/15/2019,audio,GAN-Audio,1,true,Crime/Law,TikTok,East Asia,4,Fast
+DMD-00393,8/5/2020,2/1/2021,image,DALL-E-Diffusion,1,pants-fire,Politics,YouTube,Latin America,180,Slow
+DMD-00394,8/27/2021,1/8/2022,video,FSGAN,1,half-true,Technology,Weibo,North America,134,Slow
+DMD-00395,11/28/2019,4/10/2020,video,DeepFaceLab,1,mostly-false,Health/Medical,TikTok,Europe,134,Slow
+DMD-00396,11/29/2021,5/3/2022,image,GAN-Generated,1,true,Science,YouTube,East Asia,155,Slow
+DMD-00397,7/16/2020,9/27/2020,image,Authentic,0,mostly-false,War/Conflict,Twitter/X,Sub-Saharan Africa,73,Medium
+DMD-00398,10/1/2022,1/31/2023,text,Authentic,0,mostly-true,Health/Medical,Instagram,Sub-Saharan Africa,122,Slow
+DMD-00399,5/24/2022,7/18/2022,video,FaceSwap,1,mostly-false,Crime/Law,Telegram,East Asia,55,Medium
+DMD-00400,12/13/2021,2/1/2022,video,NeuralTextures,1,false,Politics,YouTube,Oceania,50,Medium
+DMD-00401,5/9/2021,6/9/2021,text,GPT-based,1,pants-fire,Entertainment,News Website,East Asia,31,Medium
+DMD-00402,10/24/2021,12/1/2021,video,DeepFaceLab,1,true,War/Conflict,Twitter/X,Middle East,38,Medium
+DMD-00403,2/6/2021,6/4/2021,text,GPT-based,1,pants-fire,Politics,Twitter/X,Sub-Saharan Africa,118,Slow
+DMD-00404,8/7/2022,12/19/2022,image,Splicing,1,true,Sports,Twitter/X,Southeast Asia,134,Slow
+DMD-00405,10/14/2019,2/11/2020,audio,VoiceConversion,1,mostly-true,Science,Twitter/X,North America,120,Slow
+DMD-00406,3/28/2021,7/28/2021,image,Copy-Move,1,pants-fire,Crime/Law,Twitter/X,Oceania,122,Slow
+DMD-00407,7/5/2019,9/23/2019,video,Authentic,0,true,Entertainment,Twitter/X,Europe,80,Medium
+DMD-00408,7/16/2019,10/24/2019,image,DALL-E-Diffusion,1,false,Health/Medical,Twitter/X,Latin America,100,Slow
+DMD-00409,10/10/2019,2/15/2020,text,Human-Misinformation,1,true,War/Conflict,YouTube,Latin America,128,Slow
+DMD-00410,2/25/2021,8/20/2021,video,FSGAN,1,half-true,War/Conflict,YouTube,East Asia,176,Slow
+DMD-00411,1/30/2023,5/27/2023,video,DeepFaceLab,1,half-true,Politics,Facebook,Europe,117,Slow
+DMD-00412,7/27/2021,1/20/2022,text,T5-based,1,mostly-false,Health/Medical,Facebook,Europe,177,Slow
+DMD-00413,6/6/2021,7/6/2021,audio,VoiceConversion,1,mostly-true,War/Conflict,Twitter/X,Southeast Asia,30,Fast
+DMD-00414,1/11/2019,4/26/2019,video,Face2Face,1,mostly-false,Health/Medical,Twitter/X,Latin America,105,Slow
+DMD-00415,12/15/2019,6/5/2020,image,Copy-Move,1,mostly-false,Finance,Facebook,East Asia,173,Slow
+DMD-00416,4/25/2020,7/31/2020,video,SimSwap,1,true,Environment,News Website,Sub-Saharan Africa,97,Slow
+DMD-00417,10/10/2021,2/6/2022,image,Authentic,0,mostly-true,Finance,Facebook,North America,119,Slow
+DMD-00418,12/7/2019,5/1/2020,video,FSGAN,1,mostly-false,Science,TikTok,East Asia,146,Slow
+DMD-00419,7/4/2023,12/6/2023,image,Inpainting,1,mostly-false,War/Conflict,TikTok,Oceania,155,Slow
+DMD-00420,7/21/2023,10/31/2023,text,GPT-based,1,mostly-false,Politics,Twitter/X,Southeast Asia,102,Slow
+DMD-00421,12/23/2022,4/28/2023,audio,TTS-Neural,1,pants-fire,Entertainment,Instagram,South Asia,126,Slow
+DMD-00422,10/10/2022,12/25/2022,video,SimSwap,1,mostly-false,Finance,Facebook,Southeast Asia,76,Medium
+DMD-00423,9/14/2021,10/29/2021,audio,Authentic,0,half-true,Entertainment,TikTok,North America,45,Medium
+DMD-00424,2/27/2023,4/20/2023,text,Authentic,0,mostly-true,Crime/Law,Reddit,South Asia,52,Medium
+DMD-00425,7/22/2020,8/15/2020,multimodal,Image+Caption-Mismatch,1,half-true,Environment,Instagram,East Asia,24,Fast
+DMD-00426,1/2/2019,3/8/2019,audio,GAN-Audio,1,mostly-false,Health/Medical,Facebook,Oceania,65,Medium
+DMD-00427,8/21/2021,12/26/2021,video,Authentic,0,mostly-true,Politics,Instagram,Latin America,127,Slow
+DMD-00428,8/28/2021,2/12/2022,video,Authentic,0,mostly-false,Politics,Facebook,South Asia,168,Slow
+DMD-00429,9/2/2023,12/7/2023,audio,VoiceConversion,1,pants-fire,Finance,News Website,Oceania,96,Slow
+DMD-00430,5/26/2020,8/6/2020,multimodal,DeepFake-Composite,1,false,War/Conflict,YouTube,Sub-Saharan Africa,72,Medium
+DMD-00431,1/9/2021,5/4/2021,audio,Authentic,0,mostly-false,Science,Instagram,Latin America,115,Slow
+DMD-00432,3/4/2022,6/24/2022,multimodal,Image+Caption-Mismatch,1,mostly-true,Health/Medical,Twitter/X,Middle East,112,Slow
+DMD-00433,12/27/2023,1/2/2024,audio,Authentic,0,false,Environment,Telegram,Sub-Saharan Africa,6,Fast
+DMD-00434,7/26/2019,8/2/2019,video,Face2Face,1,half-true,Politics,Twitter/X,Oceania,7,Fast
+DMD-00435,3/6/2020,3/30/2020,multimodal,Image+Caption-Mismatch,1,mostly-true,Politics,Twitter/X,Middle East,24,Fast
+DMD-00436,5/6/2019,10/6/2019,audio,GAN-Audio,1,half-true,Health/Medical,TikTok,Oceania,153,Slow
+DMD-00437,12/26/2023,4/25/2024,text,T5-based,1,true,Finance,TikTok,South Asia,121,Slow
+DMD-00438,1/18/2021,6/25/2021,video,SimSwap,1,half-true,Finance,Facebook,Oceania,158,Slow
+DMD-00439,10/25/2019,3/22/2020,video,NeuralTextures,1,pants-fire,Science,Twitter/X,East Asia,149,Slow
+DMD-00440,1/17/2020,3/23/2020,image,Splicing,1,half-true,Entertainment,Telegram,Oceania,66,Medium
+DMD-00441,11/12/2021,1/1/2022,text,Authentic,0,pants-fire,Politics,YouTube,Sub-Saharan Africa,50,Medium
+DMD-00442,1/6/2023,2/14/2023,video,Authentic,0,false,Finance,YouTube,Sub-Saharan Africa,39,Medium
+DMD-00443,5/11/2020,8/20/2020,video,Authentic,0,mostly-true,Politics,Instagram,Southeast Asia,101,Slow
+DMD-00444,7/11/2020,7/22/2020,text,T5-based,1,half-true,Technology,TikTok,Latin America,11,Fast
+DMD-00445,7/27/2020,10/6/2020,audio,Authentic,0,false,Entertainment,TikTok,Middle East,71,Medium
+DMD-00446,8/9/2019,1/8/2020,audio,VoiceConversion,1,half-true,Science,Reddit,North America,152,Slow
+DMD-00447,2/22/2019,4/19/2019,audio,TTS-Neural,1,true,Science,Weibo,South Asia,56,Medium
+DMD-00448,10/21/2020,2/1/2021,text,Human-Misinformation,1,mostly-false,Finance,Instagram,Europe,103,Slow
+DMD-00449,1/10/2021,2/20/2021,video,NeuralTextures,1,half-true,Environment,YouTube,Oceania,41,Medium
+DMD-00450,6/18/2019,9/9/2019,video,FSGAN,1,false,Finance,TikTok,Latin America,83,Medium
+DMD-00451,7/4/2023,9/10/2023,audio,Authentic,0,mostly-false,Politics,Telegram,Oceania,68,Medium
+DMD-00452,4/11/2020,7/10/2020,video,DeepFaceLab,1,true,War/Conflict,Facebook,Oceania,90,Medium
+DMD-00453,10/1/2019,1/11/2020,image,GAN-Generated,1,true,Crime/Law,TikTok,Southeast Asia,102,Slow
+DMD-00454,4/4/2023,5/20/2023,video,FSGAN,1,mostly-true,Politics,Twitter/X,Middle East,46,Medium
+DMD-00455,12/6/2023,5/10/2024,video,Face2Face,1,true,War/Conflict,YouTube,East Asia,156,Slow
+DMD-00456,11/5/2021,12/14/2021,text,Authentic,0,half-true,War/Conflict,Reddit,Latin America,39,Medium
+DMD-00457,10/17/2019,12/18/2019,video,Face2Face,1,mostly-true,Politics,Instagram,South Asia,62,Medium
+DMD-00458,10/3/2021,10/30/2021,video,NeuralTextures,1,mostly-false,Technology,TikTok,East Asia,27,Fast
+DMD-00459,4/2/2019,5/27/2019,image,Inpainting,1,false,Health/Medical,Reddit,North America,55,Medium
+DMD-00460,5/15/2021,11/6/2021,audio,Authentic,0,mostly-false,Finance,Twitter/X,Sub-Saharan Africa,175,Slow
+DMD-00461,8/25/2019,10/5/2019,video,SimSwap,1,mostly-true,Technology,Twitter/X,Sub-Saharan Africa,41,Medium
+DMD-00462,10/20/2019,2/11/2020,image,Copy-Move,1,mostly-true,Politics,Twitter/X,Europe,114,Slow
+DMD-00463,5/18/2020,10/20/2020,text,GPT-based,1,true,Health/Medical,Twitter/X,Middle East,155,Slow
+DMD-00464,7/10/2022,7/20/2022,video,Face2Face,1,half-true,Politics,TikTok,Europe,10,Fast
+DMD-00465,2/12/2019,6/3/2019,text,T5-based,1,half-true,Health/Medical,Twitter/X,Sub-Saharan Africa,111,Slow
+DMD-00466,11/25/2023,5/12/2024,video,Face2Face,1,half-true,Crime/Law,YouTube,Europe,169,Slow
+DMD-00467,4/25/2023,6/4/2023,multimodal,DeepFake-Composite,1,mostly-false,Health/Medical,Telegram,Southeast Asia,40,Medium
+DMD-00468,11/24/2019,1/2/2020,video,DeepFaceLab,1,half-true,Entertainment,Facebook,North America,39,Medium
+DMD-00469,6/24/2019,9/27/2019,video,Face2Face,1,mostly-false,Environment,Facebook,Oceania,95,Slow
+DMD-00470,6/5/2021,8/31/2021,video,NeuralTextures,1,false,Technology,Instagram,East Asia,87,Medium
+DMD-00471,9/28/2021,12/10/2021,audio,GAN-Audio,1,true,Health/Medical,YouTube,Latin America,73,Medium
+DMD-00472,7/11/2023,10/7/2023,video,FaceSwap,1,half-true,Politics,WhatsApp Forward,Middle East,88,Medium
+DMD-00473,5/6/2019,8/28/2019,audio,Authentic,0,mostly-false,Finance,TikTok,Southeast Asia,114,Slow
+DMD-00474,12/22/2021,12/24/2021,text,Authentic,0,false,Politics,TikTok,Oceania,2,Fast
+DMD-00475,6/21/2020,9/11/2020,audio,VoiceConversion,1,false,Crime/Law,Facebook,Oceania,82,Medium
+DMD-00476,2/20/2019,3/28/2019,text,T5-based,1,mostly-true,Finance,Facebook,East Asia,36,Medium
+DMD-00477,8/6/2019,8/24/2019,audio,TTS-Neural,1,mostly-true,Finance,TikTok,Middle East,18,Fast
+DMD-00478,9/20/2019,12/24/2019,video,SimSwap,1,false,Entertainment,Telegram,Sub-Saharan Africa,95,Slow
+DMD-00479,12/29/2023,1/3/2024,video,FSGAN,1,true,Health/Medical,TikTok,Middle East,5,Fast
+DMD-00480,12/14/2023,4/30/2024,image,Splicing,1,mostly-true,Health/Medical,YouTube,Middle East,138,Slow
+DMD-00481,7/3/2021,12/11/2021,text,Authentic,0,half-true,Politics,Reddit,East Asia,161,Slow
+DMD-00482,6/9/2022,6/18/2022,video,FaceSwap,1,half-true,Politics,Facebook,Latin America,9,Fast
+DMD-00483,11/22/2019,12/22/2019,video,Face2Face,1,false,Science,YouTube,Europe,30,Fast
+DMD-00484,6/15/2019,11/11/2019,image,Splicing,1,pants-fire,Health/Medical,TikTok,Southeast Asia,149,Slow
+DMD-00485,2/24/2020,4/12/2020,audio,GAN-Audio,1,mostly-true,Science,TikTok,South Asia,48,Medium
+DMD-00486,1/26/2019,3/23/2019,video,FaceSwap,1,pants-fire,Crime/Law,Twitter/X,East Asia,56,Medium
+DMD-00487,1/26/2020,5/14/2020,video,Face2Face,1,mostly-true,Health/Medical,Twitter/X,North America,109,Slow
+DMD-00488,4/1/2019,9/17/2019,video,FaceSwap,1,mostly-false,Science,Facebook,Europe,169,Slow
+DMD-00489,2/14/2023,7/28/2023,image,StyleGAN2,1,half-true,Science,Instagram,Latin America,164,Slow
+DMD-00490,7/4/2022,8/11/2022,image,Authentic,0,true,Crime/Law,TikTok,Europe,38,Medium
+DMD-00491,2/7/2023,5/14/2023,video,FaceSwap,1,mostly-true,Politics,TikTok,Oceania,96,Slow
+DMD-00492,8/23/2023,2/14/2024,video,Face2Face,1,true,War/Conflict,Reddit,East Asia,175,Slow
+DMD-00493,12/19/2020,6/13/2021,audio,GAN-Audio,1,half-true,War/Conflict,Twitter/X,Oceania,176,Slow
+DMD-00494,3/19/2020,8/24/2020,text,Authentic,0,mostly-false,War/Conflict,Facebook,Oceania,158,Slow
+DMD-00495,8/13/2019,2/5/2020,video,Face2Face,1,true,War/Conflict,News Website,Middle East,176,Slow
+DMD-00496,12/11/2021,6/7/2022,audio,VoiceConversion,1,pants-fire,Politics,YouTube,North America,178,Slow
+DMD-00497,2/15/2022,4/24/2022,audio,TTS-Neural,1,mostly-true,Entertainment,Twitter/X,Latin America,68,Medium
+DMD-00498,9/21/2022,1/21/2023,image,DALL-E-Diffusion,1,mostly-false,Science,TikTok,Oceania,122,Slow
+DMD-00499,10/18/2020,1/28/2021,text,GPT-based,1,mostly-true,Finance,Twitter/X,Sub-Saharan Africa,102,Slow
+DMD-00500,5/11/2023,6/18/2023,video,FaceSwap,1,true,Health/Medical,TikTok,Oceania,38,Medium
+DMD-00501,7/9/2020,9/21/2020,video,FSGAN,1,mostly-true,War/Conflict,Instagram,Southeast Asia,74,Medium
+DMD-00502,1/20/2023,4/5/2023,image,StyleGAN2,1,false,Crime/Law,YouTube,Europe,75,Medium
+DMD-00503,4/10/2022,6/20/2022,image,Authentic,0,mostly-false,Politics,YouTube,Oceania,71,Medium
+DMD-00504,5/21/2022,10/15/2022,video,Face2Face,1,pants-fire,Health/Medical,YouTube,Sub-Saharan Africa,147,Slow
+DMD-00505,4/20/2020,5/16/2020,text,T5-based,1,half-true,Health/Medical,Facebook,Europe,26,Fast
+DMD-00506,12/11/2019,3/24/2020,text,Human-Misinformation,1,half-true,Health/Medical,Facebook,Sub-Saharan Africa,104,Slow
+DMD-00507,1/20/2021,3/28/2021,video,Face2Face,1,mostly-true,Health/Medical,Facebook,South Asia,67,Medium
+DMD-00508,11/11/2023,12/27/2023,audio,GAN-Audio,1,mostly-false,Health/Medical,YouTube,Southeast Asia,46,Medium
+DMD-00509,7/11/2020,11/20/2020,video,FaceSwap,1,true,Health/Medical,Facebook,Southeast Asia,132,Slow
+DMD-00510,8/13/2021,1/26/2022,audio,Authentic,0,mostly-true,Finance,Twitter/X,South Asia,166,Slow
+DMD-00511,10/6/2020,2/8/2021,video,NeuralTextures,1,true,Crime/Law,Telegram,Oceania,125,Slow
+DMD-00512,8/31/2022,12/20/2022,image,Splicing,1,half-true,Finance,Twitter/X,Southeast Asia,111,Slow
+DMD-00513,1/23/2021,2/6/2021,video,Face2Face,1,mostly-true,Health/Medical,YouTube,North America,14,Fast
+DMD-00514,12/14/2023,1/22/2024,video,DeepFaceLab,1,half-true,Science,News Website,Middle East,39,Medium
+DMD-00515,10/30/2020,3/14/2021,audio,GAN-Audio,1,half-true,War/Conflict,Facebook,Oceania,135,Slow
+DMD-00516,4/2/2020,5/29/2020,video,FaceSwap,1,mostly-true,Entertainment,Weibo,Oceania,57,Medium
+DMD-00517,5/13/2020,10/17/2020,image,DALL-E-Diffusion,1,mostly-true,Technology,TikTok,Oceania,157,Slow
+DMD-00518,9/26/2020,12/20/2020,video,FaceSwap,1,false,Entertainment,Facebook,South Asia,85,Medium
+DMD-00519,8/26/2021,12/20/2021,video,FaceSwap,1,true,Sports,TikTok,Middle East,116,Slow
+DMD-00520,10/7/2022,2/26/2023,video,SimSwap,1,false,War/Conflict,TikTok,Middle East,142,Slow
+DMD-00521,11/16/2023,12/29/2023,text,GPT-based,1,false,Health/Medical,YouTube,Southeast Asia,43,Medium
+DMD-00522,9/10/2022,1/18/2023,video,Face2Face,1,pants-fire,Technology,Twitter/X,South Asia,130,Slow
+DMD-00523,4/1/2022,6/6/2022,text,Human-Misinformation,1,mostly-false,Entertainment,Facebook,Latin America,66,Medium
+DMD-00524,12/29/2019,5/17/2020,image,GAN-Generated,1,false,Health/Medical,Weibo,Sub-Saharan Africa,140,Slow
+DMD-00525,1/7/2019,3/10/2019,video,FaceSwap,1,mostly-true,Politics,Telegram,Latin America,62,Medium
+DMD-00526,11/25/2019,4/7/2020,video,FaceSwap,1,false,Technology,Telegram,Latin America,134,Slow
+DMD-00527,3/27/2019,4/6/2019,video,NeuralTextures,1,half-true,Finance,YouTube,Latin America,10,Fast
+DMD-00528,10/25/2023,11/22/2023,text,T5-based,1,mostly-true,Politics,WhatsApp Forward,South Asia,28,Fast
+DMD-00529,10/11/2023,11/6/2023,multimodal,DeepFake-Composite,1,pants-fire,Science,TikTok,South Asia,26,Fast
+DMD-00530,8/7/2019,12/8/2019,multimodal,DeepFake-Composite,1,false,Technology,Facebook,South Asia,123,Slow
+DMD-00531,8/22/2020,11/19/2020,image,GAN-Generated,1,mostly-false,Crime/Law,Twitter/X,Sub-Saharan Africa,89,Medium
+DMD-00532,3/19/2021,4/23/2021,video,FaceSwap,1,half-true,Politics,TikTok,Oceania,35,Medium
+DMD-00533,1/7/2019,4/28/2019,video,FaceSwap,1,half-true,Politics,Twitter/X,Oceania,111,Slow
+DMD-00534,2/3/2022,6/14/2022,image,DALL-E-Diffusion,1,mostly-false,Environment,Telegram,Middle East,131,Slow
+DMD-00535,11/13/2022,4/4/2023,multimodal,Image+Caption-Mismatch,1,mostly-true,Crime/Law,YouTube,North America,142,Slow
+DMD-00536,8/14/2021,11/28/2021,image,StyleGAN2,1,half-true,Health/Medical,YouTube,Latin America,106,Slow
+DMD-00537,4/1/2019,8/1/2019,image,GAN-Generated,1,half-true,Health/Medical,Facebook,Sub-Saharan Africa,122,Slow
+DMD-00538,7/17/2020,9/5/2020,image,StyleGAN2,1,false,Politics,YouTube,Oceania,50,Medium
+DMD-00539,11/2/2022,2/18/2023,video,FSGAN,1,mostly-true,Politics,Instagram,Sub-Saharan Africa,108,Slow
+DMD-00540,7/6/2019,12/2/2019,video,FSGAN,1,pants-fire,Health/Medical,Facebook,East Asia,149,Slow
+DMD-00541,1/1/2020,1/13/2020,video,FaceSwap,1,false,Sports,TikTok,Latin America,12,Fast
+DMD-00542,7/28/2022,12/25/2022,video,SimSwap,1,mostly-true,Politics,Reddit,Middle East,150,Slow
+DMD-00543,6/6/2019,7/15/2019,image,Authentic,0,half-true,Politics,Facebook,Latin America,39,Medium
+DMD-00544,9/27/2020,11/10/2020,video,FaceSwap,1,mostly-false,Entertainment,YouTube,Middle East,44,Medium
+DMD-00545,10/17/2021,12/20/2021,video,Authentic,0,false,Health/Medical,Instagram,Southeast Asia,64,Medium
+DMD-00546,11/24/2023,12/5/2023,text,GPT-based,1,pants-fire,Politics,YouTube,East Asia,11,Fast
+DMD-00547,7/27/2023,12/10/2023,video,FSGAN,1,false,Health/Medical,Twitter/X,Europe,136,Slow
+DMD-00548,1/17/2023,2/18/2023,image,Copy-Move,1,half-true,Science,Facebook,East Asia,32,Medium
+DMD-00549,1/14/2020,3/8/2020,text,GPT-based,1,mostly-true,Crime/Law,YouTube,Sub-Saharan Africa,54,Medium
+DMD-00550,1/23/2021,6/29/2021,image,DALL-E-Diffusion,1,false,Science,YouTube,Sub-Saharan Africa,157,Slow
+DMD-00551,7/13/2021,9/22/2021,image,StyleGAN2,1,half-true,Science,Instagram,North America,71,Medium
+DMD-00552,2/6/2019,2/17/2019,video,DeepFaceLab,1,mostly-false,Entertainment,Instagram,Middle East,11,Fast
+DMD-00553,3/16/2023,3/27/2023,image,DALL-E-Diffusion,1,true,Health/Medical,TikTok,North America,11,Fast
+DMD-00554,5/13/2019,7/27/2019,multimodal,DeepFake-Composite,1,pants-fire,Health/Medical,Facebook,East Asia,75,Medium
+DMD-00555,7/30/2019,10/14/2019,video,Face2Face,1,false,Crime/Law,Facebook,East Asia,76,Medium
+DMD-00556,6/24/2021,8/8/2021,multimodal,Video+Audio-Sync-Fake,1,mostly-false,Health/Medical,TikTok,East Asia,45,Medium
+DMD-00557,4/13/2021,9/22/2021,image,Splicing,1,false,Health/Medical,Facebook,Middle East,162,Slow
+DMD-00558,4/3/2020,4/4/2020,multimodal,Image+Caption-Mismatch,1,half-true,Sports,Reddit,Southeast Asia,1,Fast
+DMD-00559,4/14/2019,7/18/2019,audio,GAN-Audio,1,mostly-false,Finance,Twitter/X,Southeast Asia,95,Slow
+DMD-00560,2/26/2021,3/11/2021,audio,Authentic,0,half-true,Science,Telegram,Southeast Asia,13,Fast
+DMD-00561,6/10/2019,11/12/2019,text,Human-Misinformation,1,mostly-false,Health/Medical,TikTok,Sub-Saharan Africa,155,Slow
+DMD-00562,8/25/2020,1/3/2021,video,DeepFaceLab,1,false,Politics,Twitter/X,Southeast Asia,131,Slow
+DMD-00563,10/3/2021,3/28/2022,image,GAN-Generated,1,false,Finance,Instagram,East Asia,176,Slow
+DMD-00564,4/4/2021,8/10/2021,image,GAN-Generated,1,true,Health/Medical,WhatsApp Forward,Oceania,128,Slow
+DMD-00565,8/26/2022,10/10/2022,video,FaceSwap,1,true,Finance,Instagram,Middle East,45,Medium
+DMD-00566,11/5/2021,1/19/2022,image,Inpainting,1,true,Environment,Twitter/X,Southeast Asia,75,Medium
+DMD-00567,1/18/2020,1/25/2020,image,Authentic,0,false,Technology,YouTube,Southeast Asia,7,Fast
+DMD-00568,10/13/2020,4/6/2021,video,SimSwap,1,false,Health/Medical,Twitter/X,South Asia,175,Slow
+DMD-00569,12/23/2020,5/29/2021,image,DALL-E-Diffusion,1,half-true,Politics,TikTok,East Asia,157,Slow
+DMD-00570,5/20/2023,11/12/2023,video,FSGAN,1,true,Health/Medical,TikTok,Latin America,176,Slow
+DMD-00571,9/12/2021,2/13/2022,video,DeepFaceLab,1,false,Science,Reddit,Southeast Asia,154,Slow
+DMD-00572,6/25/2022,9/2/2022,text,GPT-based,1,false,Politics,Twitter/X,South Asia,69,Medium
+DMD-00573,12/29/2023,2/3/2024,text,T5-based,1,true,War/Conflict,Facebook,Oceania,36,Medium
+DMD-00574,5/14/2021,8/16/2021,audio,GAN-Audio,1,false,Health/Medical,Twitter/X,Middle East,94,Slow
+DMD-00575,12/14/2023,1/13/2024,video,Authentic,0,half-true,Technology,Weibo,Europe,30,Fast
+DMD-00576,8/10/2022,11/24/2022,image,Authentic,0,mostly-true,Politics,Twitter/X,Europe,106,Slow
+DMD-00577,2/11/2021,2/14/2021,video,FaceSwap,1,mostly-false,Health/Medical,YouTube,Europe,3,Fast
+DMD-00578,7/31/2023,1/19/2024,video,FaceSwap,1,false,Politics,Twitter/X,Europe,172,Slow
+DMD-00579,12/17/2019,1/12/2020,video,NeuralTextures,1,half-true,Finance,Instagram,Latin America,26,Fast
+DMD-00580,3/15/2022,6/9/2022,video,Authentic,0,pants-fire,Health/Medical,TikTok,Middle East,86,Medium
+DMD-00581,3/22/2023,4/17/2023,video,DeepFaceLab,1,pants-fire,War/Conflict,Twitter/X,South Asia,26,Fast
+DMD-00582,6/7/2023,6/18/2023,text,Authentic,0,true,Politics,TikTok,Latin America,11,Fast
+DMD-00583,9/12/2020,11/2/2020,video,FaceSwap,1,half-true,War/Conflict,YouTube,Middle East,51,Medium
+DMD-00584,9/23/2019,11/9/2019,video,NeuralTextures,1,mostly-false,Health/Medical,Facebook,Europe,47,Medium
+DMD-00585,2/17/2022,8/11/2022,video,FaceSwap,1,pants-fire,War/Conflict,Facebook,East Asia,175,Slow
+DMD-00586,4/13/2020,8/8/2020,text,Authentic,0,true,War/Conflict,News Website,East Asia,117,Slow
+DMD-00587,7/30/2020,12/13/2020,video,FaceSwap,1,half-true,Environment,Twitter/X,North America,136,Slow
+DMD-00588,5/20/2021,7/4/2021,multimodal,Image+Caption-Mismatch,1,half-true,Politics,TikTok,Latin America,45,Medium
+DMD-00589,11/7/2021,11/18/2021,video,FaceSwap,1,mostly-false,Science,TikTok,Middle East,11,Fast
+DMD-00590,10/6/2022,11/27/2022,image,Splicing,1,mostly-true,Science,YouTube,Oceania,52,Medium
+DMD-00591,7/4/2021,12/2/2021,video,FaceSwap,1,mostly-true,Health/Medical,TikTok,North America,151,Slow
+DMD-00592,3/19/2021,8/22/2021,image,Copy-Move,1,false,War/Conflict,Facebook,Europe,156,Slow
+DMD-00593,3/10/2022,4/9/2022,image,Splicing,1,true,Politics,YouTube,Middle East,30,Fast
+DMD-00594,1/22/2022,2/13/2022,image,StyleGAN2,1,half-true,Sports,Reddit,Oceania,22,Fast
+DMD-00595,4/2/2023,5/3/2023,video,FaceSwap,1,false,Health/Medical,YouTube,Middle East,31,Medium
+DMD-00596,12/30/2023,5/6/2024,video,FaceSwap,1,half-true,Politics,Telegram,Middle East,128,Slow
+DMD-00597,2/17/2022,4/16/2022,text,Human-Misinformation,1,mostly-true,Finance,Twitter/X,South Asia,58,Medium
+DMD-00598,10/1/2020,11/9/2020,video,NeuralTextures,1,mostly-false,Environment,YouTube,South Asia,39,Medium
+DMD-00599,3/25/2022,4/12/2022,text,T5-based,1,pants-fire,Technology,Instagram,North America,18,Fast
+DMD-00600,5/24/2020,6/5/2020,text,T5-based,1,pants-fire,War/Conflict,Twitter/X,Latin America,12,Fast
+DMD-00601,3/11/2023,3/28/2023,image,GAN-Generated,1,mostly-false,Environment,TikTok,Oceania,17,Fast
+DMD-00602,5/24/2020,11/19/2020,image,GAN-Generated,1,false,War/Conflict,YouTube,Sub-Saharan Africa,179,Slow
+DMD-00603,11/23/2022,12/5/2022,audio,TTS-Neural,1,half-true,Health/Medical,Twitter/X,North America,12,Fast
+DMD-00604,9/8/2020,10/13/2020,image,Inpainting,1,mostly-true,Technology,Facebook,East Asia,35,Medium
+DMD-00605,4/22/2023,7/13/2023,image,Authentic,0,true,Finance,TikTok,East Asia,82,Medium
+DMD-00606,10/19/2023,12/6/2023,multimodal,Image+Caption-Mismatch,1,half-true,Entertainment,Twitter/X,North America,48,Medium
+DMD-00607,1/28/2019,4/8/2019,video,Authentic,0,true,Entertainment,WhatsApp Forward,Middle East,70,Medium
+DMD-00608,9/10/2019,2/29/2020,image,Splicing,1,mostly-true,Environment,YouTube,Oceania,172,Slow
+DMD-00609,6/13/2022,10/17/2022,image,GAN-Generated,1,mostly-true,Politics,Facebook,Sub-Saharan Africa,126,Slow
+DMD-00610,3/3/2021,5/6/2021,text,Human-Misinformation,1,mostly-true,Politics,Telegram,Sub-Saharan Africa,64,Medium
+DMD-00611,6/21/2021,10/21/2021,video,Authentic,0,false,Politics,TikTok,Middle East,122,Slow
+DMD-00612,9/10/2019,10/18/2019,video,SimSwap,1,false,War/Conflict,Twitter/X,South Asia,38,Medium
+DMD-00613,2/19/2021,4/25/2021,multimodal,DeepFake-Composite,1,mostly-true,Politics,YouTube,Southeast Asia,65,Medium
+DMD-00614,9/19/2023,2/28/2024,video,FaceSwap,1,false,Health/Medical,Instagram,Sub-Saharan Africa,162,Slow
+DMD-00615,4/20/2022,7/10/2022,video,NeuralTextures,1,true,Politics,TikTok,Oceania,81,Medium
+DMD-00616,4/5/2020,6/17/2020,video,DeepFaceLab,1,mostly-false,Science,Twitter/X,Southeast Asia,73,Medium
+DMD-00617,7/25/2022,12/17/2022,image,Copy-Move,1,true,Crime/Law,YouTube,Latin America,145,Slow
+DMD-00618,3/28/2022,8/19/2022,text,Human-Misinformation,1,half-true,War/Conflict,TikTok,Europe,144,Slow
+DMD-00619,10/10/2022,3/25/2023,text,GPT-based,1,pants-fire,Environment,Twitter/X,Sub-Saharan Africa,166,Slow
+DMD-00620,8/24/2020,11/28/2020,text,T5-based,1,pants-fire,Science,Twitter/X,Europe,96,Slow
+DMD-00621,2/20/2022,7/27/2022,video,FaceSwap,1,half-true,Entertainment,YouTube,East Asia,157,Slow
+DMD-00622,3/22/2022,6/26/2022,multimodal,Video+Audio-Sync-Fake,1,half-true,Sports,Facebook,South Asia,96,Slow
+DMD-00623,8/17/2021,12/1/2021,video,FSGAN,1,pants-fire,War/Conflict,YouTube,South Asia,106,Slow
+DMD-00624,3/30/2020,9/22/2020,image,Inpainting,1,mostly-false,Politics,Facebook,Europe,176,Slow
+DMD-00625,1/14/2022,5/23/2022,multimodal,Authentic,0,false,Politics,YouTube,Oceania,129,Slow
+DMD-00626,9/25/2020,10/3/2020,video,FSGAN,1,true,Politics,YouTube,North America,8,Fast
+DMD-00627,3/4/2022,6/4/2022,video,DeepFaceLab,1,pants-fire,Entertainment,Instagram,Sub-Saharan Africa,92,Slow
+DMD-00628,12/21/2022,5/22/2023,image,Authentic,0,true,Politics,Twitter/X,North America,152,Slow
+DMD-00629,9/6/2020,2/14/2021,video,FaceSwap,1,true,Politics,TikTok,Oceania,161,Slow
+DMD-00630,6/18/2021,10/19/2021,video,NeuralTextures,1,mostly-true,Politics,YouTube,East Asia,123,Slow
+DMD-00631,9/24/2019,1/3/2020,multimodal,Image+Caption-Mismatch,1,half-true,Health/Medical,YouTube,Oceania,101,Slow
+DMD-00632,1/14/2019,3/28/2019,video,FaceSwap,1,half-true,Sports,YouTube,North America,73,Medium
+DMD-00633,6/7/2020,10/4/2020,video,Face2Face,1,pants-fire,Entertainment,YouTube,Middle East,119,Slow
+DMD-00634,8/6/2019,9/4/2019,video,FaceSwap,1,mostly-true,Entertainment,Twitter/X,Oceania,29,Fast
+DMD-00635,7/19/2020,10/12/2020,text,Authentic,0,false,Health/Medical,TikTok,Europe,85,Medium
+DMD-00636,3/8/2020,4/11/2020,image,DALL-E-Diffusion,1,false,Politics,Reddit,Europe,34,Medium
+DMD-00637,7/31/2019,10/2/2019,multimodal,DeepFake-Composite,1,pants-fire,Politics,TikTok,Latin America,63,Medium
+DMD-00638,3/25/2019,5/5/2019,video,DeepFaceLab,1,pants-fire,Health/Medical,News Website,Latin America,41,Medium
+DMD-00639,3/14/2022,7/24/2022,image,DALL-E-Diffusion,1,half-true,Health/Medical,TikTok,Europe,132,Slow
+DMD-00640,9/5/2023,10/6/2023,image,Copy-Move,1,true,War/Conflict,News Website,Middle East,31,Medium
+DMD-00641,8/2/2022,10/3/2022,image,Splicing,1,true,War/Conflict,YouTube,Sub-Saharan Africa,62,Medium
+DMD-00642,1/12/2023,3/22/2023,image,StyleGAN2,1,pants-fire,Health/Medical,Twitter/X,East Asia,69,Medium
+DMD-00643,5/2/2022,9/8/2022,image,Authentic,0,half-true,Health/Medical,Twitter/X,Southeast Asia,129,Slow
+DMD-00644,7/19/2020,8/23/2020,video,Authentic,0,mostly-false,Science,YouTube,Oceania,35,Medium
+DMD-00645,10/12/2021,2/25/2022,audio,GAN-Audio,1,half-true,Environment,Instagram,South Asia,136,Slow
+DMD-00646,10/15/2021,12/4/2021,audio,VoiceConversion,1,mostly-true,Politics,Facebook,Europe,50,Medium
+DMD-00647,12/5/2022,3/7/2023,video,DeepFaceLab,1,true,Health/Medical,News Website,Sub-Saharan Africa,92,Slow
+DMD-00648,7/9/2022,1/3/2023,text,Human-Misinformation,1,false,Technology,Instagram,East Asia,178,Slow
+DMD-00649,9/12/2022,3/6/2023,video,Authentic,0,true,Politics,WhatsApp Forward,North America,175,Slow
+DMD-00650,11/1/2021,12/12/2021,text,GPT-based,1,pants-fire,War/Conflict,News Website,Southeast Asia,41,Medium
+DMD-00651,12/29/2021,3/6/2022,text,Authentic,0,half-true,Crime/Law,Reddit,Middle East,67,Medium
+DMD-00652,1/1/2020,4/1/2020,audio,Authentic,0,mostly-false,Health/Medical,TikTok,Southeast Asia,91,Slow
+DMD-00653,10/21/2023,3/13/2024,image,Splicing,1,true,War/Conflict,Instagram,North America,144,Slow
+DMD-00654,9/13/2022,10/1/2022,text,Authentic,0,half-true,Politics,YouTube,South Asia,18,Fast
+DMD-00655,8/28/2022,1/3/2023,video,FSGAN,1,true,Finance,Instagram,Europe,128,Slow
+DMD-00656,11/25/2022,4/22/2023,video,Authentic,0,mostly-false,Politics,YouTube,North America,148,Slow
+DMD-00657,9/22/2021,12/28/2021,text,Authentic,0,half-true,Science,Twitter/X,Oceania,97,Slow
+DMD-00658,3/11/2019,5/16/2019,text,T5-based,1,false,Finance,Instagram,Europe,66,Medium
+DMD-00659,2/27/2020,6/16/2020,video,NeuralTextures,1,mostly-true,Health/Medical,YouTube,Oceania,110,Slow
+DMD-00660,3/23/2023,8/26/2023,text,Human-Misinformation,1,mostly-true,Science,TikTok,Southeast Asia,156,Slow
+DMD-00661,4/28/2023,9/9/2023,audio,TTS-Neural,1,false,Science,Twitter/X,Latin America,134,Slow
+DMD-00662,9/10/2020,11/21/2020,video,FaceSwap,1,mostly-true,Health/Medical,TikTok,Southeast Asia,72,Medium
+DMD-00663,3/20/2022,8/24/2022,multimodal,Video+Audio-Sync-Fake,1,mostly-false,War/Conflict,Facebook,Sub-Saharan Africa,157,Slow
+DMD-00664,2/27/2019,3/8/2019,text,Human-Misinformation,1,pants-fire,Science,Twitter/X,Southeast Asia,9,Fast
+DMD-00665,11/14/2019,1/12/2020,video,Face2Face,1,mostly-true,Entertainment,YouTube,Europe,59,Medium
+DMD-00666,6/22/2021,7/10/2021,video,NeuralTextures,1,pants-fire,Environment,Instagram,Middle East,18,Fast
+DMD-00667,1/7/2023,2/10/2023,video,Face2Face,1,mostly-false,Technology,Telegram,North America,34,Medium
+DMD-00668,11/12/2019,5/4/2020,image,Authentic,0,mostly-true,Health/Medical,Twitter/X,Europe,174,Slow
+DMD-00669,6/23/2019,7/16/2019,text,GPT-based,1,half-true,Politics,Reddit,South Asia,23,Fast
+DMD-00670,8/1/2019,12/30/2019,video,FaceSwap,1,half-true,Health/Medical,Twitter/X,Latin America,151,Slow
+DMD-00671,2/4/2020,2/5/2020,text,GPT-based,1,half-true,Sports,YouTube,East Asia,1,Fast
+DMD-00672,4/18/2023,7/8/2023,audio,VoiceConversion,1,mostly-true,Politics,Telegram,Southeast Asia,81,Medium
+DMD-00673,5/6/2021,5/27/2021,video,FaceSwap,1,half-true,Science,Instagram,Europe,21,Fast
+DMD-00674,1/4/2020,1/15/2020,audio,GAN-Audio,1,mostly-false,Technology,Twitter/X,Latin America,11,Fast
+DMD-00675,8/25/2023,10/9/2023,video,FaceSwap,1,false,Politics,Instagram,Europe,45,Medium
+DMD-00676,9/10/2021,11/12/2021,image,Inpainting,1,half-true,Politics,YouTube,Europe,63,Medium
+DMD-00677,12/25/2021,2/19/2022,video,FSGAN,1,mostly-false,Politics,Reddit,East Asia,56,Medium
+DMD-00678,1/12/2019,4/12/2019,video,FaceSwap,1,false,Politics,Facebook,Southeast Asia,90,Medium
+DMD-00679,10/23/2023,12/21/2023,text,Authentic,0,pants-fire,Environment,Instagram,Sub-Saharan Africa,59,Medium
+DMD-00680,5/11/2023,6/8/2023,video,FSGAN,1,half-true,Environment,Facebook,North America,28,Fast
+DMD-00681,12/9/2019,12/11/2019,audio,Authentic,0,mostly-true,War/Conflict,Twitter/X,Southeast Asia,2,Fast
+DMD-00682,12/7/2022,3/18/2023,audio,GAN-Audio,1,mostly-false,Crime/Law,Twitter/X,South Asia,101,Slow
+DMD-00683,2/20/2023,5/8/2023,audio,GAN-Audio,1,mostly-false,Health/Medical,YouTube,North America,77,Medium
+DMD-00684,2/19/2022,5/21/2022,audio,TTS-Neural,1,mostly-true,War/Conflict,Facebook,Southeast Asia,91,Slow
+DMD-00685,8/16/2020,11/5/2020,image,StyleGAN2,1,half-true,Politics,Twitter/X,Middle East,81,Medium
+DMD-00686,11/6/2020,3/10/2021,text,Authentic,0,half-true,Health/Medical,TikTok,North America,124,Slow
+DMD-00687,1/2/2021,4/12/2021,video,Face2Face,1,false,Science,Reddit,Europe,100,Slow
+DMD-00688,9/27/2019,2/28/2020,video,Authentic,0,mostly-false,Health/Medical,Twitter/X,Middle East,154,Slow
+DMD-00689,9/10/2021,12/19/2021,video,NeuralTextures,1,mostly-false,Politics,Twitter/X,Europe,100,Slow
+DMD-00690,5/15/2023,9/13/2023,text,Authentic,0,mostly-true,Politics,TikTok,Europe,121,Slow
+DMD-00691,8/25/2019,1/1/2020,text,GPT-based,1,half-true,Politics,Facebook,Southeast Asia,129,Slow
+DMD-00692,8/2/2021,9/2/2021,video,DeepFaceLab,1,mostly-false,Environment,WhatsApp Forward,East Asia,31,Medium
+DMD-00693,2/14/2022,3/4/2022,image,DALL-E-Diffusion,1,mostly-true,Sports,Instagram,North America,18,Fast
+DMD-00694,1/21/2020,4/5/2020,video,SimSwap,1,true,Finance,TikTok,North America,75,Medium
+DMD-00695,4/11/2020,9/6/2020,image,Splicing,1,mostly-false,Crime/Law,Reddit,Middle East,148,Slow
+DMD-00696,1/29/2021,6/4/2021,video,Authentic,0,true,Politics,Twitter/X,Middle East,126,Slow
+DMD-00697,6/6/2023,8/14/2023,text,Authentic,0,true,Politics,Twitter/X,Oceania,69,Medium
+DMD-00698,3/26/2022,3/29/2022,video,Authentic,0,mostly-true,Entertainment,Instagram,Sub-Saharan Africa,3,Fast
+DMD-00699,2/4/2020,3/8/2020,text,Human-Misinformation,1,false,Politics,YouTube,Southeast Asia,33,Medium
+DMD-00700,3/29/2019,6/10/2019,text,Human-Misinformation,1,false,Entertainment,TikTok,Middle East,73,Medium
+DMD-00701,7/7/2022,10/1/2022,image,GAN-Generated,1,mostly-true,Health/Medical,TikTok,North America,86,Medium
+DMD-00702,7/24/2021,8/1/2021,video,NeuralTextures,1,false,Environment,Facebook,South Asia,8,Fast
+DMD-00703,1/24/2022,1/25/2022,video,SimSwap,1,mostly-false,Politics,Facebook,South Asia,1,Fast
+DMD-00704,11/18/2022,11/19/2022,text,Human-Misinformation,1,half-true,Technology,YouTube,South Asia,1,Fast
+DMD-00705,2/20/2022,3/23/2022,image,Copy-Move,1,false,Crime/Law,Twitter/X,South Asia,31,Medium
+DMD-00706,7/13/2019,9/11/2019,image,GAN-Generated,1,false,Environment,TikTok,Sub-Saharan Africa,60,Medium
+DMD-00707,5/16/2019,5/22/2019,video,DeepFaceLab,1,mostly-false,Science,TikTok,Sub-Saharan Africa,6,Fast
+DMD-00708,3/22/2022,7/5/2022,multimodal,Authentic,0,false,Politics,Telegram,Europe,105,Slow
+DMD-00709,7/2/2023,10/17/2023,text,GPT-based,1,mostly-false,Politics,Instagram,Europe,107,Slow
+DMD-00710,12/18/2019,1/29/2020,text,Human-Misinformation,1,false,Health/Medical,Facebook,Europe,42,Medium
+DMD-00711,5/21/2019,9/20/2019,image,Authentic,0,true,Crime/Law,Telegram,Middle East,122,Slow
+DMD-00712,9/22/2023,1/22/2024,audio,TTS-Neural,1,mostly-true,Entertainment,WhatsApp Forward,Sub-Saharan Africa,122,Slow
+DMD-00713,12/19/2020,1/17/2021,audio,GAN-Audio,1,false,Sports,Reddit,South Asia,29,Fast
+DMD-00714,5/12/2021,6/14/2021,text,Human-Misinformation,1,mostly-false,Entertainment,TikTok,Middle East,33,Medium
+DMD-00715,1/27/2023,6/12/2023,video,FSGAN,1,mostly-true,War/Conflict,YouTube,North America,136,Slow
+DMD-00716,10/31/2019,11/4/2019,image,Authentic,0,mostly-false,War/Conflict,Facebook,North America,4,Fast
+DMD-00717,10/19/2023,11/12/2023,video,FSGAN,1,pants-fire,Crime/Law,News Website,Latin America,24,Fast
+DMD-00718,4/14/2019,4/20/2019,video,Face2Face,1,mostly-true,Crime/Law,Twitter/X,South Asia,6,Fast
+DMD-00719,5/4/2020,7/15/2020,video,Face2Face,1,half-true,Finance,Instagram,Oceania,72,Medium
+DMD-00720,10/22/2021,11/9/2021,video,FSGAN,1,false,Politics,YouTube,East Asia,18,Fast
+DMD-00721,3/2/2022,3/7/2022,audio,TTS-Neural,1,mostly-true,Politics,YouTube,Latin America,5,Fast
+DMD-00722,7/8/2022,10/26/2022,text,Human-Misinformation,1,pants-fire,Science,Twitter/X,Middle East,110,Slow
+DMD-00723,4/29/2020,5/1/2020,video,FaceSwap,1,half-true,Politics,Twitter/X,East Asia,2,Fast
+DMD-00724,11/9/2019,12/13/2019,multimodal,Authentic,0,mostly-true,Health/Medical,Twitter/X,North America,34,Medium
+DMD-00725,8/15/2019,9/23/2019,text,Human-Misinformation,1,false,Entertainment,Twitter/X,Southeast Asia,39,Medium
+DMD-00726,4/23/2020,7/11/2020,video,SimSwap,1,true,Science,Twitter/X,Sub-Saharan Africa,79,Medium
+DMD-00727,7/25/2019,1/6/2020,multimodal,Image+Caption-Mismatch,1,half-true,Sports,YouTube,Middle East,165,Slow
+DMD-00728,11/1/2022,4/8/2023,text,Authentic,0,pants-fire,Health/Medical,Twitter/X,Europe,158,Slow
+DMD-00729,11/12/2023,3/5/2024,video,FSGAN,1,mostly-true,Entertainment,YouTube,Europe,114,Slow
+DMD-00730,11/4/2023,12/2/2023,image,Splicing,1,pants-fire,Politics,Reddit,East Asia,28,Fast
+DMD-00731,2/3/2022,5/5/2022,image,GAN-Generated,1,false,Technology,Telegram,Latin America,91,Slow
+DMD-00732,1/15/2021,1/27/2021,text,GPT-based,1,false,Entertainment,Twitter/X,North America,12,Fast
+DMD-00733,7/26/2023,7/30/2023,image,GAN-Generated,1,mostly-true,Entertainment,YouTube,South Asia,4,Fast
+DMD-00734,6/15/2020,7/25/2020,video,NeuralTextures,1,false,Entertainment,YouTube,East Asia,40,Medium
+DMD-00735,7/22/2023,12/23/2023,audio,GAN-Audio,1,half-true,Politics,Twitter/X,Latin America,154,Slow
+DMD-00736,9/11/2021,1/26/2022,text,Authentic,0,half-true,Politics,YouTube,Middle East,137,Slow
+DMD-00737,10/30/2019,2/23/2020,image,Copy-Move,1,false,Crime/Law,Facebook,East Asia,116,Slow
+DMD-00738,1/18/2023,5/28/2023,video,FSGAN,1,false,Science,TikTok,Sub-Saharan Africa,130,Slow
+DMD-00739,6/11/2020,6/14/2020,text,T5-based,1,mostly-true,Sports,Twitter/X,Latin America,3,Fast
+DMD-00740,2/1/2023,3/26/2023,audio,VoiceConversion,1,half-true,Science,YouTube,South Asia,53,Medium
+DMD-00741,2/5/2022,5/20/2022,video,Face2Face,1,half-true,Environment,YouTube,Europe,104,Slow
+DMD-00742,3/22/2019,6/18/2019,video,Authentic,0,mostly-true,Entertainment,Instagram,Sub-Saharan Africa,88,Medium
+DMD-00743,6/8/2022,10/27/2022,text,Human-Misinformation,1,true,Science,Facebook,East Asia,141,Slow
+DMD-00744,9/14/2020,12/15/2020,text,Human-Misinformation,1,false,Politics,YouTube,North America,92,Slow
+DMD-00745,5/3/2022,5/15/2022,multimodal,Authentic,0,mostly-true,Health/Medical,Twitter/X,Sub-Saharan Africa,12,Fast
+DMD-00746,2/9/2022,7/3/2022,image,Copy-Move,1,mostly-true,Entertainment,Facebook,East Asia,144,Slow
+DMD-00747,10/2/2019,10/17/2019,text,Human-Misinformation,1,mostly-false,Environment,Twitter/X,Oceania,15,Fast
+DMD-00748,4/14/2020,5/10/2020,image,StyleGAN2,1,half-true,Science,Instagram,North America,26,Fast
+DMD-00749,7/4/2020,9/23/2020,audio,TTS-Neural,1,true,Health/Medical,Reddit,Southeast Asia,81,Medium
+DMD-00750,8/12/2021,1/14/2022,image,StyleGAN2,1,mostly-false,Entertainment,Facebook,Middle East,155,Slow
+DMD-00751,12/15/2019,5/14/2020,video,Face2Face,1,mostly-false,Crime/Law,Twitter/X,East Asia,151,Slow
+DMD-00752,11/6/2021,1/14/2022,text,GPT-based,1,mostly-false,Health/Medical,Instagram,Oceania,69,Medium
+DMD-00753,2/5/2022,5/22/2022,multimodal,Image+Caption-Mismatch,1,pants-fire,Health/Medical,Twitter/X,North America,106,Slow
+DMD-00754,6/3/2019,6/16/2019,video,Face2Face,1,true,Crime/Law,Reddit,East Asia,13,Fast
+DMD-00755,3/18/2022,6/10/2022,multimodal,Video+Audio-Sync-Fake,1,pants-fire,Politics,YouTube,Southeast Asia,84,Medium
+DMD-00756,3/21/2023,3/30/2023,image,Copy-Move,1,mostly-true,War/Conflict,YouTube,Europe,9,Fast
+DMD-00757,4/24/2023,8/30/2023,video,Face2Face,1,mostly-true,Science,Twitter/X,East Asia,128,Slow
+DMD-00758,5/4/2022,7/30/2022,video,Authentic,0,mostly-true,Entertainment,Telegram,South Asia,87,Medium
+DMD-00759,3/22/2023,7/16/2023,audio,VoiceConversion,1,false,Entertainment,Telegram,Europe,116,Slow
+DMD-00760,5/11/2023,9/21/2023,image,StyleGAN2,1,mostly-false,Health/Medical,YouTube,Southeast Asia,133,Slow
+DMD-00761,6/9/2023,7/10/2023,text,Human-Misinformation,1,mostly-true,Finance,Reddit,East Asia,31,Medium
+DMD-00762,12/13/2019,6/9/2020,video,SimSwap,1,half-true,War/Conflict,YouTube,Latin America,179,Slow
+DMD-00763,9/15/2023,10/1/2023,image,DALL-E-Diffusion,1,false,Science,Facebook,Oceania,16,Fast
+DMD-00764,12/18/2019,3/31/2020,text,Human-Misinformation,1,half-true,Entertainment,WhatsApp Forward,Southeast Asia,104,Slow
+DMD-00765,1/8/2022,5/1/2022,video,Face2Face,1,pants-fire,Health/Medical,Twitter/X,Middle East,113,Slow
+DMD-00766,4/2/2022,4/16/2022,video,SimSwap,1,mostly-true,Entertainment,Facebook,Southeast Asia,14,Fast
+DMD-00767,11/4/2019,3/19/2020,video,FaceSwap,1,mostly-true,Politics,Facebook,East Asia,136,Slow
+DMD-00768,10/25/2023,11/23/2023,image,Authentic,0,false,Health/Medical,TikTok,Middle East,29,Fast
+DMD-00769,1/13/2019,2/3/2019,text,Human-Misinformation,1,mostly-true,Politics,Telegram,Middle East,21,Fast
+DMD-00770,2/10/2021,7/27/2021,audio,VoiceConversion,1,half-true,Politics,Facebook,East Asia,167,Slow
+DMD-00771,11/25/2023,3/7/2024,audio,Authentic,0,false,Science,Weibo,Oceania,103,Slow
+DMD-00772,5/8/2023,10/15/2023,image,Copy-Move,1,true,Science,Telegram,Middle East,160,Slow
+DMD-00773,12/28/2023,5/30/2024,video,Authentic,0,mostly-true,Entertainment,YouTube,Oceania,154,Slow
+DMD-00774,2/14/2020,7/18/2020,text,GPT-based,1,false,Technology,Instagram,Middle East,155,Slow
+DMD-00775,10/12/2021,1/3/2022,video,DeepFaceLab,1,mostly-false,Sports,TikTok,South Asia,83,Medium
+DMD-00776,8/22/2023,1/9/2024,text,Human-Misinformation,1,pants-fire,Politics,Instagram,Oceania,140,Slow
+DMD-00777,5/22/2020,8/9/2020,text,GPT-based,1,true,Crime/Law,Twitter/X,South Asia,79,Medium
+DMD-00778,10/28/2019,4/23/2020,audio,Authentic,0,pants-fire,Health/Medical,Facebook,Southeast Asia,178,Slow
+DMD-00779,12/30/2021,4/16/2022,image,Copy-Move,1,false,Finance,YouTube,East Asia,107,Slow
+DMD-00780,6/16/2023,9/15/2023,image,StyleGAN2,1,mostly-false,Technology,YouTube,South Asia,91,Slow
+DMD-00781,10/15/2020,1/3/2021,text,Human-Misinformation,1,true,Entertainment,Telegram,Southeast Asia,80,Medium
+DMD-00782,2/13/2019,8/1/2019,image,Inpainting,1,mostly-true,Crime/Law,Twitter/X,Latin America,169,Slow
+DMD-00783,6/3/2021,10/6/2021,video,DeepFaceLab,1,half-true,Politics,YouTube,Middle East,125,Slow
+DMD-00784,11/22/2019,12/30/2019,image,Inpainting,1,true,Health/Medical,YouTube,Middle East,38,Medium
+DMD-00785,9/22/2021,12/31/2021,video,Authentic,0,half-true,Science,Twitter/X,Latin America,100,Slow
+DMD-00786,1/18/2019,4/23/2019,image,Copy-Move,1,false,War/Conflict,Facebook,East Asia,95,Slow
+DMD-00787,8/22/2022,10/9/2022,video,FaceSwap,1,pants-fire,Health/Medical,YouTube,Middle East,48,Medium
+DMD-00788,7/12/2022,10/10/2022,image,Splicing,1,false,Politics,Facebook,Europe,90,Medium
+DMD-00789,8/4/2022,9/13/2022,video,NeuralTextures,1,half-true,Politics,Twitter/X,Europe,40,Medium
+DMD-00790,2/7/2021,4/16/2021,image,StyleGAN2,1,pants-fire,Technology,Facebook,Europe,68,Medium
+DMD-00791,10/22/2020,3/27/2021,image,DALL-E-Diffusion,1,mostly-true,Politics,Twitter/X,Southeast Asia,156,Slow
+DMD-00792,12/1/2022,4/3/2023,video,SimSwap,1,half-true,Environment,TikTok,Sub-Saharan Africa,123,Slow
+DMD-00793,10/7/2019,12/8/2019,video,FaceSwap,1,false,Technology,Twitter/X,South Asia,62,Medium
+DMD-00794,10/24/2020,2/13/2021,video,Authentic,0,pants-fire,Entertainment,News Website,Oceania,112,Slow
+DMD-00795,6/26/2021,6/27/2021,image,Authentic,0,true,Finance,Facebook,Latin America,1,Fast
+DMD-00796,3/11/2022,3/12/2022,image,StyleGAN2,1,true,Entertainment,Twitter/X,Middle East,1,Fast
+DMD-00797,4/17/2022,10/13/2022,image,DALL-E-Diffusion,1,false,Finance,Instagram,Europe,179,Slow
+DMD-00798,9/27/2019,11/23/2019,image,DALL-E-Diffusion,1,false,Environment,YouTube,Oceania,57,Medium
+DMD-00799,10/16/2021,1/1/2022,audio,TTS-Neural,1,pants-fire,Politics,Facebook,Southeast Asia,77,Medium
+DMD-00800,5/19/2019,8/27/2019,image,GAN-Generated,1,half-true,Health/Medical,Instagram,East Asia,100,Slow
+DMD-00801,10/24/2023,2/15/2024,multimodal,Authentic,0,true,Crime/Law,Twitter/X,East Asia,114,Slow
+DMD-00802,5/31/2023,9/15/2023,image,Splicing,1,true,Sports,Reddit,Europe,107,Slow
+DMD-00803,4/22/2020,7/13/2020,image,Copy-Move,1,true,Finance,Facebook,North America,82,Medium
+DMD-00804,9/30/2022,2/26/2023,audio,VoiceConversion,1,mostly-true,Politics,Twitter/X,South Asia,149,Slow
+DMD-00805,3/24/2023,6/29/2023,video,Face2Face,1,mostly-true,Politics,Reddit,Latin America,97,Slow
+DMD-00806,4/12/2023,5/18/2023,video,FSGAN,1,pants-fire,Entertainment,YouTube,North America,36,Medium
+DMD-00807,8/6/2022,12/18/2022,text,T5-based,1,false,War/Conflict,YouTube,East Asia,134,Slow
+DMD-00808,6/27/2021,8/16/2021,video,DeepFaceLab,1,mostly-true,Finance,TikTok,North America,50,Medium
+DMD-00809,3/26/2020,9/10/2020,video,SimSwap,1,pants-fire,Finance,TikTok,North America,168,Slow
+DMD-00810,12/10/2021,12/30/2021,video,Face2Face,1,half-true,Science,Facebook,Latin America,20,Fast
+DMD-00811,4/30/2022,8/11/2022,image,DALL-E-Diffusion,1,mostly-false,War/Conflict,Facebook,Europe,103,Slow
+DMD-00812,3/5/2021,8/5/2021,image,Authentic,0,mostly-false,Science,YouTube,Sub-Saharan Africa,153,Slow
+DMD-00813,11/1/2023,3/13/2024,image,Inpainting,1,mostly-false,War/Conflict,Instagram,East Asia,133,Slow
+DMD-00814,6/19/2022,11/21/2022,audio,TTS-Neural,1,half-true,Politics,Telegram,North America,155,Slow
+DMD-00815,4/11/2019,6/1/2019,audio,TTS-Neural,1,half-true,Politics,Reddit,South Asia,51,Medium
+DMD-00816,11/15/2021,1/29/2022,image,Splicing,1,half-true,Crime/Law,Twitter/X,Sub-Saharan Africa,75,Medium
+DMD-00817,4/23/2020,5/20/2020,audio,GAN-Audio,1,pants-fire,Health/Medical,YouTube,North America,27,Fast
+DMD-00818,2/22/2023,4/29/2023,video,Face2Face,1,half-true,Health/Medical,News Website,Oceania,66,Medium
+DMD-00819,8/15/2022,10/28/2022,image,Copy-Move,1,false,Politics,Facebook,Middle East,74,Medium
+DMD-00820,11/7/2019,2/24/2020,text,GPT-based,1,pants-fire,Politics,Weibo,Sub-Saharan Africa,109,Slow
+DMD-00821,10/3/2019,11/5/2019,text,Authentic,0,mostly-true,Health/Medical,Reddit,Europe,33,Medium
+DMD-00822,12/18/2020,1/4/2021,video,DeepFaceLab,1,mostly-false,Health/Medical,Instagram,Middle East,17,Fast
+DMD-00823,7/9/2019,9/24/2019,text,T5-based,1,mostly-true,Entertainment,Facebook,Middle East,77,Medium
+DMD-00824,1/9/2021,3/21/2021,multimodal,Video+Audio-Sync-Fake,1,half-true,Politics,Instagram,Southeast Asia,71,Medium
+DMD-00825,7/8/2019,7/25/2019,video,FaceSwap,1,mostly-false,Technology,YouTube,East Asia,17,Fast
+DMD-00826,2/1/2021,4/10/2021,text,Authentic,0,mostly-true,Technology,YouTube,Sub-Saharan Africa,68,Medium
+DMD-00827,3/17/2019,4/13/2019,video,NeuralTextures,1,mostly-false,Finance,YouTube,North America,27,Fast
+DMD-00828,7/26/2019,9/14/2019,video,Face2Face,1,true,Health/Medical,Facebook,East Asia,50,Medium
+DMD-00829,12/31/2020,3/5/2021,audio,GAN-Audio,1,mostly-true,Science,Instagram,East Asia,64,Medium
+DMD-00830,11/11/2020,4/5/2021,multimodal,Image+Caption-Mismatch,1,false,War/Conflict,Facebook,Sub-Saharan Africa,145,Slow
+DMD-00831,11/12/2019,1/26/2020,text,Authentic,0,false,Entertainment,Twitter/X,South Asia,75,Medium
+DMD-00832,5/28/2021,7/31/2021,image,Copy-Move,1,half-true,Politics,Telegram,Southeast Asia,64,Medium
+DMD-00833,7/10/2023,9/2/2023,video,FaceSwap,1,mostly-true,War/Conflict,Instagram,East Asia,54,Medium
+DMD-00834,8/30/2023,2/9/2024,text,Authentic,0,mostly-true,Technology,Twitter/X,Latin America,163,Slow
+DMD-00835,2/23/2021,5/9/2021,video,NeuralTextures,1,false,Politics,Instagram,Europe,75,Medium
+DMD-00836,5/8/2021,9/9/2021,video,Authentic,0,mostly-true,War/Conflict,TikTok,Middle East,124,Slow
+DMD-00837,11/27/2019,12/7/2019,video,Authentic,0,true,Politics,Facebook,Oceania,10,Fast
+DMD-00838,1/18/2022,4/26/2022,text,GPT-based,1,mostly-false,War/Conflict,Twitter/X,Europe,98,Slow
+DMD-00839,9/19/2021,3/17/2022,audio,TTS-Neural,1,true,Finance,Twitter/X,Oceania,179,Slow
+DMD-00840,12/13/2019,2/15/2020,text,Authentic,0,mostly-false,Sports,Twitter/X,Oceania,64,Medium
+DMD-00841,1/5/2019,2/10/2019,audio,Authentic,0,half-true,Health/Medical,TikTok,Oceania,36,Medium
+DMD-00842,7/11/2022,1/7/2023,video,FSGAN,1,half-true,Politics,YouTube,North America,180,Slow
+DMD-00843,3/31/2020,4/2/2020,text,GPT-based,1,mostly-false,Politics,Twitter/X,Oceania,2,Fast
+DMD-00844,4/14/2021,5/28/2021,image,StyleGAN2,1,true,Politics,Instagram,Southeast Asia,44,Medium
+DMD-00845,7/28/2019,8/27/2019,video,Authentic,0,pants-fire,Finance,Facebook,South Asia,30,Fast
+DMD-00846,9/6/2020,10/3/2020,text,GPT-based,1,false,Health/Medical,Reddit,Europe,27,Fast
+DMD-00847,6/3/2022,7/31/2022,image,Copy-Move,1,mostly-true,Environment,Twitter/X,Sub-Saharan Africa,58,Medium
+DMD-00848,12/6/2020,4/12/2021,text,Human-Misinformation,1,mostly-true,Finance,Facebook,North America,127,Slow
+DMD-00849,4/23/2020,8/17/2020,video,NeuralTextures,1,mostly-true,Health/Medical,Instagram,Southeast Asia,116,Slow
+DMD-00850,7/31/2020,1/20/2021,text,GPT-based,1,mostly-false,Health/Medical,Twitter/X,Oceania,173,Slow
+DMD-00851,2/14/2021,2/18/2021,text,Human-Misinformation,1,half-true,Politics,YouTube,Latin America,4,Fast
+DMD-00852,5/13/2022,6/6/2022,text,Human-Misinformation,1,mostly-true,Science,TikTok,Southeast Asia,24,Fast
+DMD-00853,12/27/2020,1/5/2021,video,FaceSwap,1,true,Politics,YouTube,Sub-Saharan Africa,9,Fast
+DMD-00854,11/28/2020,3/5/2021,video,Face2Face,1,mostly-false,Science,Instagram,Sub-Saharan Africa,97,Slow
+DMD-00855,5/16/2020,9/7/2020,image,Splicing,1,mostly-false,Finance,Instagram,North America,114,Slow
+DMD-00856,8/20/2022,11/11/2022,image,GAN-Generated,1,mostly-true,Politics,TikTok,Europe,83,Medium
+DMD-00857,7/26/2022,12/6/2022,text,T5-based,1,false,Entertainment,TikTok,Latin America,133,Slow
+DMD-00858,5/12/2022,10/28/2022,video,NeuralTextures,1,half-true,Politics,Facebook,Latin America,169,Slow
+DMD-00859,1/10/2020,3/22/2020,video,FaceSwap,1,false,Politics,Facebook,Europe,72,Medium
+DMD-00860,10/31/2020,2/7/2021,video,FSGAN,1,false,Politics,TikTok,South Asia,99,Slow
+DMD-00861,6/1/2023,7/22/2023,text,GPT-based,1,half-true,Politics,TikTok,Southeast Asia,51,Medium
+DMD-00862,10/22/2019,12/24/2019,audio,Authentic,0,half-true,Politics,YouTube,Latin America,63,Medium
+DMD-00863,10/11/2019,11/19/2019,video,FaceSwap,1,half-true,War/Conflict,YouTube,Europe,39,Medium
+DMD-00864,8/8/2020,11/28/2020,audio,GAN-Audio,1,false,Politics,Facebook,Europe,112,Slow
+DMD-00865,8/10/2019,11/3/2019,text,GPT-based,1,mostly-false,Politics,YouTube,South Asia,85,Medium
+DMD-00866,3/13/2020,6/6/2020,image,StyleGAN2,1,mostly-true,Politics,Telegram,North America,85,Medium
+DMD-00867,5/26/2022,10/8/2022,audio,TTS-Neural,1,true,Entertainment,Reddit,East Asia,135,Slow
+DMD-00868,11/24/2019,3/9/2020,image,Inpainting,1,mostly-true,Health/Medical,TikTok,Sub-Saharan Africa,106,Slow
+DMD-00869,7/13/2019,11/10/2019,image,Inpainting,1,half-true,Entertainment,TikTok,South Asia,120,Slow
+DMD-00870,10/17/2020,11/19/2020,audio,VoiceConversion,1,half-true,Environment,Reddit,Middle East,33,Medium
+DMD-00871,9/17/2021,1/17/2022,text,Authentic,0,true,Science,YouTube,North America,122,Slow
+DMD-00872,10/14/2022,12/28/2022,video,Face2Face,1,mostly-true,Finance,Instagram,East Asia,75,Medium
+DMD-00873,6/13/2022,9/15/2022,text,GPT-based,1,true,Health/Medical,WhatsApp Forward,Sub-Saharan Africa,94,Slow
+DMD-00874,5/12/2021,5/25/2021,video,SimSwap,1,half-true,Entertainment,Reddit,Europe,13,Fast
+DMD-00875,7/2/2019,12/3/2019,video,NeuralTextures,1,mostly-true,Technology,TikTok,Europe,154,Slow
+DMD-00876,3/12/2019,9/5/2019,video,FaceSwap,1,mostly-false,War/Conflict,WhatsApp Forward,South Asia,177,Slow
+DMD-00877,4/11/2023,6/2/2023,video,FSGAN,1,true,Entertainment,News Website,Sub-Saharan Africa,52,Medium
+DMD-00878,6/21/2020,8/17/2020,audio,VoiceConversion,1,mostly-false,Entertainment,Twitter/X,Oceania,57,Medium
+DMD-00879,6/9/2020,10/5/2020,image,Inpainting,1,mostly-false,Politics,Twitter/X,Sub-Saharan Africa,118,Slow
+DMD-00880,8/19/2022,8/27/2022,image,Authentic,0,mostly-false,Politics,Instagram,East Asia,8,Fast
+DMD-00881,4/27/2022,6/7/2022,image,Splicing,1,mostly-false,Health/Medical,Twitter/X,Southeast Asia,41,Medium
+DMD-00882,6/7/2021,8/29/2021,image,Copy-Move,1,false,Finance,News Website,East Asia,83,Medium
+DMD-00883,8/20/2022,9/19/2022,image,Copy-Move,1,pants-fire,Finance,TikTok,Sub-Saharan Africa,30,Fast
+DMD-00884,11/27/2020,5/9/2021,video,Authentic,0,mostly-true,Politics,Instagram,Southeast Asia,163,Slow
+DMD-00885,2/27/2021,8/13/2021,text,Authentic,0,mostly-true,Crime/Law,News Website,East Asia,167,Slow
+DMD-00886,2/18/2021,7/7/2021,image,StyleGAN2,1,mostly-true,War/Conflict,Twitter/X,Europe,139,Slow
+DMD-00887,12/24/2020,6/10/2021,video,Authentic,0,false,War/Conflict,Instagram,Middle East,168,Slow
+DMD-00888,2/1/2023,5/23/2023,video,Face2Face,1,pants-fire,Technology,TikTok,South Asia,111,Slow
+DMD-00889,5/9/2020,9/30/2020,image,Inpainting,1,mostly-true,Politics,Telegram,Middle East,144,Slow
+DMD-00890,3/18/2023,7/22/2023,audio,Authentic,0,pants-fire,Sports,YouTube,East Asia,126,Slow
+DMD-00891,11/18/2022,12/2/2022,text,T5-based,1,mostly-true,Politics,Facebook,Oceania,14,Fast
+DMD-00892,11/11/2022,3/8/2023,video,SimSwap,1,half-true,Environment,YouTube,East Asia,117,Slow
+DMD-00893,6/24/2021,10/3/2021,image,GAN-Generated,1,false,Entertainment,Telegram,Europe,101,Slow
+DMD-00894,7/24/2019,9/7/2019,image,Inpainting,1,false,Politics,YouTube,Sub-Saharan Africa,45,Medium
+DMD-00895,6/23/2021,9/28/2021,image,GAN-Generated,1,true,Politics,TikTok,Europe,97,Slow
+DMD-00896,10/18/2020,10/23/2020,video,SimSwap,1,mostly-false,Politics,TikTok,South Asia,5,Fast
+DMD-00897,8/1/2021,11/21/2021,video,Face2Face,1,false,Health/Medical,Instagram,South Asia,112,Slow
+DMD-00898,9/26/2020,3/9/2021,text,Authentic,0,false,War/Conflict,Twitter/X,North America,164,Slow
+DMD-00899,7/17/2019,7/29/2019,text,Human-Misinformation,1,mostly-false,Entertainment,Twitter/X,South Asia,12,Fast
+DMD-00900,12/11/2023,6/1/2024,video,SimSwap,1,true,Health/Medical,YouTube,Sub-Saharan Africa,173,Slow
+DMD-00901,8/22/2019,12/12/2019,image,StyleGAN2,1,pants-fire,Science,Facebook,Middle East,112,Slow
+DMD-00902,5/26/2021,10/1/2021,video,Face2Face,1,half-true,Politics,Reddit,Southeast Asia,128,Slow
+DMD-00903,3/21/2020,9/13/2020,video,SimSwap,1,half-true,Entertainment,Facebook,Latin America,176,Slow
+DMD-00904,2/11/2021,6/29/2021,text,T5-based,1,false,Politics,Twitter/X,Oceania,138,Slow
+DMD-00905,5/1/2022,5/31/2022,multimodal,Authentic,0,half-true,War/Conflict,Facebook,Sub-Saharan Africa,30,Fast
+DMD-00906,8/6/2020,1/2/2021,video,FSGAN,1,half-true,Finance,TikTok,Oceania,149,Slow
+DMD-00907,2/14/2020,3/10/2020,video,Authentic,0,mostly-false,Finance,TikTok,East Asia,25,Fast
+DMD-00908,8/9/2022,8/13/2022,video,DeepFaceLab,1,mostly-true,Health/Medical,Twitter/X,Southeast Asia,4,Fast
+DMD-00909,8/8/2023,10/8/2023,audio,Authentic,0,mostly-false,Technology,TikTok,Latin America,61,Medium
+DMD-00910,1/3/2020,1/31/2020,text,Authentic,0,mostly-true,Politics,Twitter/X,Sub-Saharan Africa,28,Fast
+DMD-00911,3/30/2021,8/11/2021,text,Human-Misinformation,1,pants-fire,Finance,Reddit,Sub-Saharan Africa,134,Slow
+DMD-00912,4/7/2023,5/1/2023,text,T5-based,1,true,Environment,Twitter/X,Middle East,24,Fast
+DMD-00913,6/17/2022,10/30/2022,multimodal,Video+Audio-Sync-Fake,1,mostly-false,Science,Twitter/X,Oceania,135,Slow
+DMD-00914,11/19/2020,3/6/2021,image,Inpainting,1,true,Finance,YouTube,Oceania,107,Slow
+DMD-00915,5/25/2019,6/1/2019,audio,Authentic,0,mostly-false,Crime/Law,TikTok,Sub-Saharan Africa,7,Fast
+DMD-00916,5/27/2020,6/20/2020,image,StyleGAN2,1,mostly-true,Science,Twitter/X,South Asia,24,Fast
+DMD-00917,8/25/2021,11/28/2021,multimodal,Image+Caption-Mismatch,1,mostly-true,Crime/Law,Facebook,Middle East,95,Slow
+DMD-00918,5/14/2021,7/26/2021,text,Human-Misinformation,1,true,Entertainment,Facebook,Oceania,73,Medium
+DMD-00919,2/11/2021,6/24/2021,image,Splicing,1,true,Crime/Law,Twitter/X,Southeast Asia,133,Slow
+DMD-00920,11/20/2020,3/1/2021,multimodal,Image+Caption-Mismatch,1,pants-fire,Finance,Instagram,East Asia,101,Slow
+DMD-00921,4/4/2019,5/9/2019,video,Face2Face,1,half-true,Technology,Facebook,Latin America,35,Medium
+DMD-00922,3/19/2022,5/21/2022,video,SimSwap,1,mostly-true,Environment,Reddit,Europe,63,Medium
+DMD-00923,4/4/2023,8/4/2023,image,Copy-Move,1,mostly-true,Entertainment,TikTok,Europe,122,Slow
+DMD-00924,9/21/2023,10/4/2023,image,Copy-Move,1,pants-fire,Environment,TikTok,Latin America,13,Fast
+DMD-00925,7/12/2020,1/4/2021,text,T5-based,1,mostly-true,Health/Medical,Facebook,Southeast Asia,176,Slow
+DMD-00926,5/12/2021,9/9/2021,video,DeepFaceLab,1,mostly-true,Health/Medical,Twitter/X,Oceania,120,Slow
+DMD-00927,1/5/2020,2/26/2020,image,DALL-E-Diffusion,1,false,Health/Medical,Facebook,North America,52,Medium
+DMD-00928,9/4/2023,11/24/2023,image,GAN-Generated,1,half-true,War/Conflict,Twitter/X,Southeast Asia,81,Medium
+DMD-00929,2/24/2021,7/15/2021,audio,GAN-Audio,1,pants-fire,Technology,Twitter/X,Latin America,141,Slow
+DMD-00930,5/18/2019,7/22/2019,image,Authentic,0,mostly-true,Health/Medical,YouTube,Europe,65,Medium
+DMD-00931,11/25/2023,5/16/2024,video,Authentic,0,mostly-false,Politics,Twitter/X,East Asia,173,Slow
+DMD-00932,7/27/2023,8/17/2023,image,Splicing,1,mostly-true,Crime/Law,WhatsApp Forward,South Asia,21,Fast
+DMD-00933,8/1/2021,10/29/2021,multimodal,Video+Audio-Sync-Fake,1,false,Technology,Instagram,North America,89,Medium
+DMD-00934,7/5/2019,7/28/2019,image,DALL-E-Diffusion,1,true,Crime/Law,Instagram,East Asia,23,Fast
+DMD-00935,2/27/2023,6/18/2023,video,NeuralTextures,1,false,Politics,WhatsApp Forward,Oceania,111,Slow
+DMD-00936,2/5/2019,2/21/2019,image,Inpainting,1,pants-fire,Science,TikTok,East Asia,16,Fast
+DMD-00937,2/1/2020,7/12/2020,multimodal,Video+Audio-Sync-Fake,1,mostly-true,Politics,Facebook,Europe,162,Slow
+DMD-00938,7/20/2023,8/1/2023,video,Authentic,0,half-true,Crime/Law,Twitter/X,North America,12,Fast
+DMD-00939,10/3/2019,11/29/2019,text,T5-based,1,mostly-false,Environment,Weibo,Latin America,57,Medium
+DMD-00940,8/29/2023,1/27/2024,video,Face2Face,1,false,Politics,Facebook,Middle East,151,Slow
+DMD-00941,5/5/2020,10/3/2020,video,FaceSwap,1,false,Health/Medical,TikTok,Middle East,151,Slow
+DMD-00942,1/16/2020,2/26/2020,multimodal,DeepFake-Composite,1,false,Science,YouTube,South Asia,41,Medium
+DMD-00943,11/1/2022,1/25/2023,image,Authentic,0,half-true,War/Conflict,Reddit,Middle East,85,Medium
+DMD-00944,7/3/2020,12/7/2020,image,Splicing,1,true,Sports,Reddit,North America,157,Slow
+DMD-00945,7/29/2020,9/5/2020,audio,VoiceConversion,1,mostly-true,War/Conflict,YouTube,North America,38,Medium
+DMD-00946,2/22/2020,4/13/2020,video,FaceSwap,1,mostly-false,Science,Reddit,Oceania,51,Medium
+DMD-00947,4/9/2019,9/18/2019,audio,TTS-Neural,1,false,Health/Medical,YouTube,Oceania,162,Slow
+DMD-00948,10/7/2023,3/22/2024,multimodal,DeepFake-Composite,1,pants-fire,Finance,YouTube,Southeast Asia,167,Slow
+DMD-00949,7/16/2019,10/3/2019,audio,VoiceConversion,1,mostly-false,Science,Facebook,East Asia,79,Medium
+DMD-00950,1/10/2021,4/4/2021,text,Human-Misinformation,1,false,Technology,Twitter/X,Middle East,84,Medium
+DMD-00951,9/3/2020,10/2/2020,multimodal,DeepFake-Composite,1,mostly-true,Health/Medical,News Website,Middle East,29,Fast
+DMD-00952,8/15/2021,10/9/2021,video,SimSwap,1,true,Sports,Telegram,Sub-Saharan Africa,55,Medium
+DMD-00953,5/3/2020,6/27/2020,text,T5-based,1,false,Sports,TikTok,Oceania,55,Medium
+DMD-00954,3/27/2019,8/7/2019,video,Face2Face,1,half-true,Science,TikTok,Oceania,133,Slow
+DMD-00955,8/13/2019,11/15/2019,image,GAN-Generated,1,mostly-true,Sports,News Website,South Asia,94,Slow
+DMD-00956,7/11/2020,8/29/2020,video,FaceSwap,1,false,Technology,Telegram,North America,49,Medium
+DMD-00957,5/5/2023,10/13/2023,audio,GAN-Audio,1,mostly-true,Sports,YouTube,Latin America,161,Slow
+DMD-00958,7/1/2019,8/3/2019,image,Inpainting,1,mostly-true,Finance,Twitter/X,Oceania,33,Medium
+DMD-00959,2/12/2021,5/19/2021,video,FSGAN,1,true,Entertainment,TikTok,Southeast Asia,96,Slow
+DMD-00960,11/16/2021,2/2/2022,text,Authentic,0,pants-fire,Environment,YouTube,East Asia,78,Medium
+DMD-00961,9/13/2021,12/24/2021,video,FaceSwap,1,mostly-true,Politics,YouTube,South Asia,102,Slow
+DMD-00962,7/30/2019,12/6/2019,image,Inpainting,1,pants-fire,War/Conflict,TikTok,North America,129,Slow
+DMD-00963,3/2/2022,7/5/2022,text,GPT-based,1,half-true,Politics,Twitter/X,Europe,125,Slow
+DMD-00964,3/26/2021,5/1/2021,image,Inpainting,1,pants-fire,Entertainment,Instagram,Latin America,36,Medium
+DMD-00965,1/11/2021,5/6/2021,audio,VoiceConversion,1,false,Health/Medical,Telegram,Sub-Saharan Africa,115,Slow
+DMD-00966,1/22/2021,6/3/2021,video,FSGAN,1,true,Health/Medical,Telegram,East Asia,132,Slow
+DMD-00967,4/8/2023,9/18/2023,video,DeepFaceLab,1,mostly-true,Politics,Instagram,Sub-Saharan Africa,163,Slow
+DMD-00968,3/13/2023,7/7/2023,video,DeepFaceLab,1,half-true,Technology,Reddit,Europe,116,Slow
+DMD-00969,1/7/2021,6/5/2021,text,Authentic,0,mostly-true,Entertainment,Facebook,Europe,149,Slow
+DMD-00970,10/25/2022,11/1/2022,image,DALL-E-Diffusion,1,half-true,Politics,YouTube,East Asia,7,Fast
+DMD-00971,6/21/2021,10/16/2021,text,T5-based,1,true,Sports,YouTube,East Asia,117,Slow
+DMD-00972,12/20/2019,2/6/2020,video,FSGAN,1,false,Crime/Law,Facebook,Oceania,48,Medium
+DMD-00973,9/2/2022,10/6/2022,video,FSGAN,1,false,Sports,Twitter/X,East Asia,34,Medium
+DMD-00974,5/22/2020,9/13/2020,image,StyleGAN2,1,pants-fire,Politics,Twitter/X,North America,114,Slow
+DMD-00975,10/29/2020,3/22/2021,video,Authentic,0,mostly-false,Politics,Telegram,Middle East,144,Slow
+DMD-00976,1/10/2020,5/28/2020,video,Face2Face,1,mostly-true,Health/Medical,Facebook,Middle East,139,Slow
+DMD-00977,4/11/2021,7/27/2021,video,Authentic,0,mostly-true,Entertainment,Twitter/X,Oceania,107,Slow
+DMD-00978,12/19/2022,6/2/2023,image,Splicing,1,half-true,Crime/Law,WhatsApp Forward,Sub-Saharan Africa,165,Slow
+DMD-00979,9/2/2019,1/24/2020,video,FaceSwap,1,mostly-false,Science,Twitter/X,Europe,144,Slow
+DMD-00980,9/11/2020,3/9/2021,video,Authentic,0,pants-fire,War/Conflict,Twitter/X,Oceania,179,Slow
+DMD-00981,6/12/2020,8/28/2020,image,Authentic,0,false,Finance,Reddit,Middle East,77,Medium
+DMD-00982,8/18/2022,8/23/2022,video,Authentic,0,mostly-true,Politics,YouTube,East Asia,5,Fast
+DMD-00983,7/3/2020,12/12/2020,text,Human-Misinformation,1,mostly-true,Entertainment,Instagram,Latin America,162,Slow
+DMD-00984,4/1/2020,5/27/2020,video,FSGAN,1,half-true,Technology,YouTube,Europe,56,Medium
+DMD-00985,5/16/2023,7/16/2023,audio,TTS-Neural,1,mostly-false,Health/Medical,Facebook,Southeast Asia,61,Medium
+DMD-00986,4/18/2019,6/30/2019,video,SimSwap,1,false,War/Conflict,TikTok,Latin America,73,Medium
+DMD-00987,11/22/2022,1/18/2023,video,NeuralTextures,1,mostly-true,Finance,Facebook,Europe,57,Medium
+DMD-00988,10/25/2020,11/13/2020,video,Face2Face,1,half-true,Health/Medical,YouTube,Middle East,19,Fast
+DMD-00989,11/11/2021,11/21/2021,video,Face2Face,1,half-true,War/Conflict,Twitter/X,Oceania,10,Fast
+DMD-00990,11/20/2021,5/1/2022,text,GPT-based,1,true,Sports,Facebook,Oceania,162,Slow
+DMD-00991,9/12/2022,12/20/2022,video,FSGAN,1,mostly-false,Politics,Twitter/X,Oceania,99,Slow
+DMD-00992,8/22/2019,12/5/2019,multimodal,DeepFake-Composite,1,pants-fire,Politics,TikTok,Latin America,105,Slow
+DMD-00993,8/2/2020,8/7/2020,image,Splicing,1,pants-fire,Finance,Twitter/X,Southeast Asia,5,Fast
+DMD-00994,6/9/2021,9/15/2021,video,FaceSwap,1,mostly-true,Crime/Law,YouTube,North America,98,Slow
+DMD-00995,6/8/2023,8/2/2023,video,Face2Face,1,pants-fire,Crime/Law,Twitter/X,South Asia,55,Medium
+DMD-00996,11/4/2021,11/14/2021,video,Authentic,0,true,Politics,Twitter/X,Europe,10,Fast
+DMD-00997,1/2/2023,3/15/2023,multimodal,Image+Caption-Mismatch,1,half-true,War/Conflict,Facebook,Sub-Saharan Africa,72,Medium
+DMD-00998,5/1/2023,9/8/2023,image,Inpainting,1,half-true,Politics,YouTube,Europe,130,Slow
+DMD-00999,10/23/2023,1/4/2024,image,GAN-Generated,1,pants-fire,Technology,Reddit,Oceania,73,Medium
+DMD-01000,7/22/2023,8/23/2023,audio,GAN-Audio,1,mostly-false,War/Conflict,Reddit,Latin America,32,Medium
+DMD-01001,2/13/2021,8/1/2021,audio,Authentic,0,pants-fire,Crime/Law,Facebook,North America,169,Slow
+DMD-01002,4/19/2020,5/30/2020,text,Human-Misinformation,1,mostly-false,Entertainment,Facebook,North America,41,Medium
+DMD-01003,3/9/2021,5/18/2021,text,Authentic,0,half-true,Finance,Twitter/X,Middle East,70,Medium
+DMD-01004,7/2/2019,8/19/2019,multimodal,DeepFake-Composite,1,mostly-true,Health/Medical,Facebook,Southeast Asia,48,Medium
+DMD-01005,7/30/2023,12/10/2023,text,Human-Misinformation,1,false,Crime/Law,Facebook,North America,133,Slow
+DMD-01006,5/16/2021,5/30/2021,video,SimSwap,1,half-true,Crime/Law,Twitter/X,Oceania,14,Fast
+DMD-01007,1/7/2021,3/11/2021,text,Authentic,0,mostly-true,Crime/Law,Twitter/X,Middle East,63,Medium
+DMD-01008,10/11/2021,11/19/2021,text,T5-based,1,pants-fire,Crime/Law,Twitter/X,Europe,39,Medium
+DMD-01009,3/10/2019,6/29/2019,text,T5-based,1,mostly-true,Technology,Instagram,East Asia,111,Slow
+DMD-01010,2/1/2019,2/28/2019,image,Inpainting,1,false,Finance,Twitter/X,Middle East,27,Fast
+DMD-01011,5/25/2023,6/23/2023,video,SimSwap,1,mostly-false,Health/Medical,TikTok,North America,29,Fast
+DMD-01012,10/13/2023,1/25/2024,text,Authentic,0,pants-fire,Health/Medical,Twitter/X,East Asia,104,Slow
+DMD-01013,1/25/2022,3/1/2022,video,Authentic,0,pants-fire,Finance,YouTube,Latin America,35,Medium
+DMD-01014,3/28/2022,9/15/2022,video,Face2Face,1,mostly-true,Politics,Twitter/X,Middle East,171,Slow
+DMD-01015,5/23/2020,11/1/2020,audio,VoiceConversion,1,false,Finance,TikTok,Sub-Saharan Africa,162,Slow
+DMD-01016,9/13/2021,1/27/2022,audio,VoiceConversion,1,half-true,Politics,YouTube,South Asia,136,Slow
+DMD-01017,12/6/2020,5/24/2021,video,FSGAN,1,true,War/Conflict,WhatsApp Forward,Oceania,169,Slow
+DMD-01018,12/28/2020,4/8/2021,image,StyleGAN2,1,false,Entertainment,YouTube,South Asia,101,Slow
+DMD-01019,9/14/2023,10/28/2023,image,Authentic,0,half-true,Politics,Twitter/X,Southeast Asia,44,Medium
+DMD-01020,9/30/2021,3/6/2022,image,GAN-Generated,1,false,Politics,Reddit,Europe,157,Slow
+DMD-01021,9/22/2019,11/23/2019,video,NeuralTextures,1,false,Politics,Facebook,East Asia,62,Medium
+DMD-01022,9/9/2023,1/30/2024,text,Human-Misinformation,1,half-true,Health/Medical,TikTok,East Asia,143,Slow
+DMD-01023,9/1/2019,12/2/2019,image,Splicing,1,mostly-false,Crime/Law,Telegram,South Asia,92,Slow
+DMD-01024,9/14/2020,11/14/2020,image,Copy-Move,1,mostly-true,Entertainment,Facebook,Europe,61,Medium
+DMD-01025,3/28/2020,4/19/2020,image,Splicing,1,false,Technology,YouTube,Middle East,22,Fast
+DMD-01026,4/23/2023,7/8/2023,audio,Authentic,0,true,Politics,Facebook,Middle East,76,Medium
+DMD-01027,4/23/2021,5/30/2021,video,Face2Face,1,half-true,Health/Medical,Facebook,Sub-Saharan Africa,37,Medium
+DMD-01028,6/18/2022,8/16/2022,image,Copy-Move,1,pants-fire,War/Conflict,Telegram,Oceania,59,Medium
+DMD-01029,1/12/2022,5/25/2022,image,Copy-Move,1,false,Environment,YouTube,North America,133,Slow
+DMD-01030,10/7/2023,3/23/2024,image,Authentic,0,mostly-true,Science,Twitter/X,Middle East,168,Slow
+DMD-01031,11/29/2020,4/27/2021,text,T5-based,1,half-true,Science,WhatsApp Forward,Southeast Asia,149,Slow
+DMD-01032,9/19/2020,3/12/2021,multimodal,Video+Audio-Sync-Fake,1,mostly-true,Politics,TikTok,Middle East,174,Slow
+DMD-01033,1/19/2020,3/17/2020,audio,VoiceConversion,1,mostly-true,Science,Twitter/X,Sub-Saharan Africa,58,Medium
+DMD-01034,6/3/2019,8/17/2019,video,NeuralTextures,1,half-true,Health/Medical,Instagram,North America,75,Medium
+DMD-01035,10/30/2019,3/1/2020,image,Authentic,0,pants-fire,Health/Medical,Twitter/X,Oceania,123,Slow
+DMD-01036,11/12/2020,3/2/2021,multimodal,Video+Audio-Sync-Fake,1,pants-fire,Science,Telegram,North America,110,Slow
+DMD-01037,11/21/2020,5/14/2021,video,NeuralTextures,1,true,Politics,YouTube,Middle East,174,Slow
+DMD-01038,7/24/2022,8/12/2022,text,Human-Misinformation,1,mostly-false,Environment,Facebook,Middle East,19,Fast
+DMD-01039,8/8/2020,1/14/2021,image,StyleGAN2,1,pants-fire,Science,TikTok,North America,159,Slow
+DMD-01040,10/25/2020,11/30/2020,image,Copy-Move,1,half-true,Science,Facebook,South Asia,36,Medium
+DMD-01041,7/18/2023,1/13/2024,video,NeuralTextures,1,mostly-true,Science,Instagram,Sub-Saharan Africa,179,Slow
+DMD-01042,2/6/2020,6/12/2020,image,StyleGAN2,1,pants-fire,War/Conflict,Weibo,Europe,127,Slow
+DMD-01043,6/20/2019,10/1/2019,video,SimSwap,1,false,Politics,Reddit,North America,103,Slow
+DMD-01044,6/25/2021,11/25/2021,image,Splicing,1,half-true,Health/Medical,Facebook,Sub-Saharan Africa,153,Slow
+DMD-01045,6/17/2019,6/21/2019,audio,VoiceConversion,1,mostly-false,Health/Medical,Reddit,Oceania,4,Fast
+DMD-01046,2/24/2021,8/13/2021,text,T5-based,1,true,Environment,Twitter/X,Southeast Asia,170,Slow
+DMD-01047,5/17/2021,8/27/2021,video,NeuralTextures,1,half-true,Politics,Twitter/X,Middle East,102,Slow
+DMD-01048,3/31/2021,5/14/2021,text,T5-based,1,true,Politics,TikTok,North America,44,Medium
+DMD-01049,12/30/2021,3/5/2022,audio,VoiceConversion,1,half-true,War/Conflict,TikTok,Sub-Saharan Africa,65,Medium
+DMD-01050,10/30/2019,4/16/2020,text,Authentic,0,false,War/Conflict,YouTube,North America,169,Slow
+DMD-01051,2/1/2023,6/20/2023,multimodal,Image+Caption-Mismatch,1,pants-fire,Science,Telegram,Southeast Asia,139,Slow
+DMD-01052,8/21/2021,11/14/2021,image,Copy-Move,1,pants-fire,Science,TikTok,South Asia,85,Medium
+DMD-01053,5/25/2020,10/5/2020,image,DALL-E-Diffusion,1,false,War/Conflict,Twitter/X,Oceania,133,Slow
+DMD-01054,6/10/2022,8/14/2022,video,NeuralTextures,1,mostly-true,Technology,Twitter/X,Europe,65,Medium
+DMD-01055,1/18/2022,7/16/2022,video,FaceSwap,1,true,Finance,Facebook,Southeast Asia,179,Slow
+DMD-01056,12/14/2022,5/2/2023,video,SimSwap,1,mostly-false,Entertainment,Telegram,North America,139,Slow
+DMD-01057,2/4/2019,3/30/2019,video,FaceSwap,1,mostly-true,Entertainment,Telegram,Southeast Asia,54,Medium
+DMD-01058,1/15/2019,4/30/2019,multimodal,Authentic,0,half-true,Politics,YouTube,Southeast Asia,105,Slow
+DMD-01059,7/29/2023,11/21/2023,video,FSGAN,1,true,Sports,Facebook,Latin America,115,Slow
+DMD-01060,9/20/2023,12/17/2023,image,Copy-Move,1,half-true,Science,TikTok,North America,88,Medium
+DMD-01061,6/20/2020,9/9/2020,video,SimSwap,1,half-true,Entertainment,Twitter/X,East Asia,81,Medium
+DMD-01062,6/5/2019,6/15/2019,text,Authentic,0,half-true,Crime/Law,Telegram,East Asia,10,Fast
+DMD-01063,9/29/2022,12/14/2022,image,Authentic,0,half-true,Environment,Reddit,Oceania,76,Medium
+DMD-01064,9/26/2019,3/14/2020,multimodal,DeepFake-Composite,1,half-true,Health/Medical,TikTok,South Asia,170,Slow
+DMD-01065,4/27/2019,6/15/2019,text,GPT-based,1,false,Sports,TikTok,North America,49,Medium
+DMD-01066,1/11/2023,6/29/2023,image,StyleGAN2,1,mostly-false,Crime/Law,Instagram,Europe,169,Slow
+DMD-01067,10/25/2021,1/27/2022,multimodal,Image+Caption-Mismatch,1,mostly-false,Finance,Facebook,Middle East,94,Slow
+DMD-01068,1/8/2021,2/18/2021,audio,TTS-Neural,1,true,Crime/Law,Twitter/X,East Asia,41,Medium
+DMD-01069,12/28/2022,6/25/2023,video,Face2Face,1,true,Environment,Facebook,East Asia,179,Slow
+DMD-01070,11/11/2019,2/11/2020,image,GAN-Generated,1,true,Sports,TikTok,East Asia,92,Slow
+DMD-01071,6/7/2022,9/13/2022,video,DeepFaceLab,1,false,Sports,TikTok,Latin America,98,Slow
+DMD-01072,1/9/2020,3/5/2020,image,DALL-E-Diffusion,1,mostly-true,Entertainment,Reddit,Oceania,56,Medium
+DMD-01073,3/2/2023,5/12/2023,video,Authentic,0,false,Politics,News Website,Southeast Asia,71,Medium
+DMD-01074,11/28/2021,2/16/2022,image,Copy-Move,1,true,Health/Medical,Facebook,North America,80,Medium
+DMD-01075,1/27/2021,5/20/2021,video,DeepFaceLab,1,false,Health/Medical,WhatsApp Forward,Oceania,113,Slow
+DMD-01076,3/23/2023,5/28/2023,multimodal,Image+Caption-Mismatch,1,mostly-false,War/Conflict,Instagram,Sub-Saharan Africa,66,Medium
+DMD-01077,9/9/2022,9/24/2022,image,Copy-Move,1,false,Science,Facebook,North America,15,Fast
+DMD-01078,9/15/2022,2/10/2023,text,T5-based,1,half-true,War/Conflict,News Website,Latin America,148,Slow
+DMD-01079,8/18/2019,12/3/2019,image,Authentic,0,false,War/Conflict,Facebook,Latin America,107,Slow
+DMD-01080,7/6/2019,12/29/2019,image,Copy-Move,1,pants-fire,Crime/Law,Facebook,Middle East,176,Slow
+DMD-01081,12/30/2023,6/11/2024,video,FSGAN,1,true,Politics,Reddit,East Asia,164,Slow
+DMD-01082,11/30/2020,4/12/2021,image,GAN-Generated,1,half-true,Finance,News Website,Oceania,133,Slow
+DMD-01083,6/27/2023,9/13/2023,text,T5-based,1,true,Science,Facebook,Europe,78,Medium
+DMD-01084,6/27/2019,12/11/2019,video,FaceSwap,1,mostly-false,Politics,YouTube,Sub-Saharan Africa,167,Slow
+DMD-01085,8/31/2023,1/30/2024,multimodal,Image+Caption-Mismatch,1,mostly-true,War/Conflict,Facebook,Sub-Saharan Africa,152,Slow
+DMD-01086,4/19/2021,7/17/2021,multimodal,Video+Audio-Sync-Fake,1,half-true,Crime/Law,Twitter/X,Europe,89,Medium
+DMD-01087,12/18/2019,3/23/2020,multimodal,Image+Caption-Mismatch,1,mostly-false,Crime/Law,YouTube,Latin America,96,Slow
+DMD-01088,4/15/2021,9/16/2021,image,Authentic,0,mostly-false,Politics,Instagram,Europe,154,Slow
+DMD-01089,2/10/2023,8/8/2023,audio,Authentic,0,mostly-false,Sports,Twitter/X,South Asia,179,Slow
+DMD-01090,9/24/2021,2/12/2022,video,NeuralTextures,1,false,Health/Medical,Instagram,Sub-Saharan Africa,141,Slow
+DMD-01091,8/7/2021,1/13/2022,audio,GAN-Audio,1,mostly-false,Entertainment,Twitter/X,Southeast Asia,159,Slow
+DMD-01092,11/2/2023,12/28/2023,text,Human-Misinformation,1,mostly-true,Health/Medical,Facebook,Oceania,56,Medium
+DMD-01093,8/16/2022,12/12/2022,audio,VoiceConversion,1,false,Health/Medical,Twitter/X,South Asia,118,Slow
+DMD-01094,3/5/2022,6/16/2022,video,Face2Face,1,true,Entertainment,YouTube,Europe,103,Slow
+DMD-01095,8/15/2021,10/7/2021,video,DeepFaceLab,1,true,Finance,Twitter/X,Southeast Asia,53,Medium
+DMD-01096,10/25/2023,12/4/2023,video,NeuralTextures,1,half-true,Environment,Twitter/X,Oceania,40,Medium
+DMD-01097,1/30/2019,4/14/2019,audio,GAN-Audio,1,pants-fire,War/Conflict,Instagram,Oceania,74,Medium
+DMD-01098,3/7/2021,6/27/2021,image,Inpainting,1,half-true,Health/Medical,Twitter/X,North America,112,Slow
+DMD-01099,10/29/2023,3/24/2024,video,FaceSwap,1,mostly-false,Politics,Reddit,East Asia,147,Slow
+DMD-01100,5/1/2019,6/25/2019,text,Human-Misinformation,1,false,Sports,Facebook,South Asia,55,Medium
+DMD-01101,12/8/2022,12/26/2022,audio,GAN-Audio,1,half-true,Politics,Twitter/X,South Asia,18,Fast
+DMD-01102,5/28/2023,9/29/2023,video,FSGAN,1,mostly-true,Science,Instagram,East Asia,124,Slow
+DMD-01103,2/23/2023,7/25/2023,image,Inpainting,1,pants-fire,Technology,Telegram,Oceania,152,Slow
+DMD-01104,12/8/2022,1/3/2023,video,Authentic,0,mostly-false,Health/Medical,Instagram,South Asia,26,Fast
+DMD-01105,1/7/2020,4/23/2020,video,Authentic,0,mostly-false,Finance,Twitter/X,Sub-Saharan Africa,107,Slow
+DMD-01106,1/1/2021,5/31/2021,video,Face2Face,1,half-true,Politics,YouTube,North America,150,Slow
+DMD-01107,7/15/2020,8/11/2020,image,Splicing,1,mostly-false,Health/Medical,Facebook,East Asia,27,Fast
+DMD-01108,11/11/2020,3/20/2021,audio,Authentic,0,mostly-false,Entertainment,YouTube,Oceania,129,Slow
+DMD-01109,6/24/2022,9/24/2022,image,StyleGAN2,1,half-true,Technology,Twitter/X,Europe,92,Slow
+DMD-01110,12/29/2022,4/5/2023,image,Splicing,1,mostly-true,Crime/Law,Reddit,Middle East,97,Slow
+DMD-01111,9/13/2019,12/24/2019,image,Inpainting,1,half-true,Politics,Facebook,Sub-Saharan Africa,102,Slow
+DMD-01112,7/15/2021,8/31/2021,image,Authentic,0,mostly-false,Health/Medical,YouTube,Europe,47,Medium
+DMD-01113,10/28/2019,3/25/2020,video,FaceSwap,1,half-true,Technology,TikTok,Southeast Asia,149,Slow
+DMD-01114,8/24/2019,12/12/2019,text,GPT-based,1,mostly-true,Health/Medical,WhatsApp Forward,East Asia,110,Slow
+DMD-01115,3/20/2020,9/10/2020,text,T5-based,1,pants-fire,Technology,YouTube,South Asia,174,Slow
+DMD-01116,5/19/2019,9/16/2019,video,Face2Face,1,mostly-false,Crime/Law,Twitter/X,Sub-Saharan Africa,120,Slow
+DMD-01117,7/5/2022,11/3/2022,audio,VoiceConversion,1,true,War/Conflict,Facebook,South Asia,121,Slow
+DMD-01118,1/8/2019,6/20/2019,text,T5-based,1,true,Sports,Reddit,North America,163,Slow
+DMD-01119,12/22/2023,3/2/2024,video,DeepFaceLab,1,mostly-false,War/Conflict,Facebook,North America,71,Medium
+DMD-01120,7/15/2023,8/18/2023,video,SimSwap,1,half-true,War/Conflict,WhatsApp Forward,Sub-Saharan Africa,34,Medium
+DMD-01121,2/11/2022,6/10/2022,image,GAN-Generated,1,false,Politics,TikTok,Southeast Asia,119,Slow
+DMD-01122,4/30/2021,9/15/2021,video,DeepFaceLab,1,mostly-false,Health/Medical,Reddit,Southeast Asia,138,Slow
+DMD-01123,6/25/2020,8/17/2020,video,SimSwap,1,mostly-true,War/Conflict,Telegram,Latin America,53,Medium
+DMD-01124,1/28/2023,4/25/2023,video,SimSwap,1,mostly-true,Health/Medical,Facebook,Southeast Asia,87,Medium
+DMD-01125,5/28/2019,7/21/2019,video,FSGAN,1,half-true,Health/Medical,YouTube,North America,54,Medium
+DMD-01126,1/1/2019,3/21/2019,video,FSGAN,1,pants-fire,Health/Medical,Telegram,South Asia,79,Medium
+DMD-01127,2/19/2021,6/18/2021,image,Authentic,0,mostly-true,Health/Medical,Twitter/X,Oceania,119,Slow
+DMD-01128,10/28/2022,2/19/2023,audio,TTS-Neural,1,mostly-false,Politics,Reddit,East Asia,114,Slow
+DMD-01129,2/4/2022,7/31/2022,image,Splicing,1,mostly-true,Environment,YouTube,East Asia,177,Slow
+DMD-01130,7/1/2023,9/29/2023,image,Copy-Move,1,pants-fire,Technology,TikTok,Sub-Saharan Africa,90,Medium
+DMD-01131,12/14/2019,5/16/2020,video,NeuralTextures,1,mostly-true,Politics,Instagram,East Asia,154,Slow
+DMD-01132,4/13/2021,9/14/2021,audio,VoiceConversion,1,false,Health/Medical,YouTube,Oceania,154,Slow
+DMD-01133,12/7/2023,1/13/2024,video,DeepFaceLab,1,mostly-true,Politics,YouTube,Oceania,37,Medium
+DMD-01134,2/13/2019,3/31/2019,video,Authentic,0,mostly-true,Crime/Law,Facebook,Europe,46,Medium
+DMD-01135,4/23/2023,10/5/2023,text,Human-Misinformation,1,pants-fire,Crime/Law,TikTok,South Asia,165,Slow
+DMD-01136,9/18/2019,11/6/2019,text,Human-Misinformation,1,mostly-false,War/Conflict,TikTok,Sub-Saharan Africa,49,Medium
+DMD-01137,7/1/2020,7/12/2020,text,Authentic,0,false,War/Conflict,TikTok,North America,11,Fast
+DMD-01138,4/29/2019,10/4/2019,video,Face2Face,1,mostly-false,Entertainment,Twitter/X,Sub-Saharan Africa,158,Slow
+DMD-01139,8/2/2021,1/10/2022,video,FSGAN,1,true,Politics,Facebook,Oceania,161,Slow
+DMD-01140,3/16/2020,4/9/2020,multimodal,DeepFake-Composite,1,false,Entertainment,Facebook,Europe,24,Fast
+DMD-01141,11/5/2020,4/18/2021,video,DeepFaceLab,1,false,War/Conflict,YouTube,Oceania,164,Slow
+DMD-01142,5/16/2021,10/22/2021,multimodal,Video+Audio-Sync-Fake,1,half-true,Crime/Law,Twitter/X,East Asia,159,Slow
+DMD-01143,11/7/2021,3/18/2022,video,DeepFaceLab,1,mostly-true,Health/Medical,TikTok,Latin America,131,Slow
+DMD-01144,12/26/2022,3/9/2023,video,NeuralTextures,1,mostly-false,Health/Medical,YouTube,Europe,73,Medium
+DMD-01145,2/8/2021,4/27/2021,image,GAN-Generated,1,mostly-true,Health/Medical,Twitter/X,Oceania,78,Medium
+DMD-01146,9/9/2019,12/27/2019,image,DALL-E-Diffusion,1,half-true,War/Conflict,Twitter/X,North America,109,Slow
+DMD-01147,4/18/2023,5/29/2023,audio,GAN-Audio,1,pants-fire,Entertainment,Facebook,East Asia,41,Medium
+DMD-01148,4/11/2023,8/31/2023,video,NeuralTextures,1,pants-fire,Crime/Law,YouTube,Southeast Asia,142,Slow
+DMD-01149,7/23/2019,11/6/2019,multimodal,Image+Caption-Mismatch,1,mostly-true,Entertainment,Reddit,East Asia,106,Slow
+DMD-01150,11/20/2022,4/10/2023,video,FaceSwap,1,mostly-false,Politics,Twitter/X,Oceania,141,Slow
+DMD-01151,2/11/2022,7/6/2022,image,StyleGAN2,1,mostly-false,Health/Medical,Facebook,Europe,145,Slow
+DMD-01152,2/16/2022,4/27/2022,video,NeuralTextures,1,false,Science,Twitter/X,Sub-Saharan Africa,70,Medium
+DMD-01153,3/21/2021,9/1/2021,video,SimSwap,1,true,Health/Medical,TikTok,North America,164,Slow
+DMD-01154,11/27/2020,3/12/2021,multimodal,Video+Audio-Sync-Fake,1,pants-fire,Sports,TikTok,North America,105,Slow
+DMD-01155,6/16/2019,10/30/2019,video,FaceSwap,1,pants-fire,War/Conflict,YouTube,North America,136,Slow
+DMD-01156,10/14/2019,11/11/2019,video,Authentic,0,true,Science,Twitter/X,Southeast Asia,28,Fast
+DMD-01157,11/3/2019,2/19/2020,image,Splicing,1,half-true,Politics,Facebook,North America,108,Slow
+DMD-01158,2/23/2021,6/20/2021,audio,VoiceConversion,1,half-true,Entertainment,Instagram,Sub-Saharan Africa,117,Slow
+DMD-01159,4/25/2019,8/17/2019,image,Copy-Move,1,mostly-false,Politics,Instagram,Southeast Asia,114,Slow
+DMD-01160,8/5/2020,11/14/2020,video,Face2Face,1,true,Finance,YouTube,Southeast Asia,101,Slow
+DMD-01161,1/12/2020,4/9/2020,image,StyleGAN2,1,half-true,Finance,Twitter/X,East Asia,88,Medium
+DMD-01162,2/26/2022,4/29/2022,video,SimSwap,1,mostly-true,Health/Medical,TikTok,Latin America,62,Medium
+DMD-01163,2/24/2023,5/21/2023,video,FaceSwap,1,mostly-false,Politics,YouTube,Europe,86,Medium
+DMD-01164,5/13/2019,6/14/2019,image,GAN-Generated,1,half-true,Politics,Twitter/X,Europe,32,Medium
+DMD-01165,9/25/2023,3/15/2024,image,Splicing,1,half-true,Science,News Website,Southeast Asia,172,Slow
+DMD-01166,2/26/2022,8/21/2022,video,SimSwap,1,true,Entertainment,YouTube,Southeast Asia,176,Slow
+DMD-01167,1/23/2020,4/25/2020,image,Inpainting,1,mostly-false,Politics,Twitter/X,East Asia,93,Slow
+DMD-01168,5/3/2023,5/13/2023,video,NeuralTextures,1,mostly-false,Entertainment,Instagram,Latin America,10,Fast
+DMD-01169,11/13/2022,12/27/2022,text,GPT-based,1,true,Health/Medical,WhatsApp Forward,Latin America,44,Medium
+DMD-01170,6/2/2021,8/27/2021,image,Copy-Move,1,mostly-false,Science,Twitter/X,Oceania,86,Medium
+DMD-01171,5/22/2020,9/28/2020,audio,VoiceConversion,1,half-true,Finance,Weibo,Europe,129,Slow
+DMD-01172,2/12/2021,6/10/2021,image,Splicing,1,half-true,Technology,YouTube,Oceania,118,Slow
+DMD-01173,12/2/2023,5/14/2024,text,Human-Misinformation,1,half-true,Finance,YouTube,South Asia,164,Slow
+DMD-01174,4/19/2019,10/1/2019,video,NeuralTextures,1,false,Politics,Facebook,Middle East,165,Slow
+DMD-01175,6/30/2023,12/7/2023,text,Authentic,0,false,Politics,YouTube,Oceania,160,Slow
+DMD-01176,2/23/2021,7/5/2021,image,Splicing,1,pants-fire,Sports,YouTube,Oceania,132,Slow
+DMD-01177,6/8/2022,7/4/2022,image,Copy-Move,1,true,Politics,YouTube,North America,26,Fast
+DMD-01178,3/28/2022,8/24/2022,audio,TTS-Neural,1,mostly-true,Finance,Facebook,Oceania,149,Slow
+DMD-01179,1/15/2022,2/22/2022,video,FaceSwap,1,true,Health/Medical,YouTube,North America,38,Medium
+DMD-01180,4/27/2020,7/11/2020,text,Authentic,0,mostly-true,Technology,Instagram,South Asia,75,Medium
+DMD-01181,8/28/2021,12/5/2021,text,Authentic,0,half-true,Politics,Facebook,Latin America,99,Slow
+DMD-01182,8/24/2022,11/19/2022,video,FaceSwap,1,mostly-true,Health/Medical,Reddit,East Asia,87,Medium
+DMD-01183,12/31/2019,5/4/2020,image,DALL-E-Diffusion,1,mostly-true,War/Conflict,YouTube,Latin America,125,Slow
+DMD-01184,2/19/2023,3/2/2023,video,Authentic,0,half-true,Politics,YouTube,Southeast Asia,11,Fast
+DMD-01185,1/21/2023,6/13/2023,image,Splicing,1,mostly-true,Entertainment,YouTube,Latin America,143,Slow
+DMD-01186,11/30/2019,3/4/2020,video,SimSwap,1,pants-fire,Sports,Facebook,East Asia,95,Slow
+DMD-01187,3/4/2019,5/8/2019,multimodal,Image+Caption-Mismatch,1,mostly-false,War/Conflict,Instagram,East Asia,65,Medium
+DMD-01188,10/17/2020,11/22/2020,audio,Authentic,0,pants-fire,Environment,Weibo,Southeast Asia,36,Medium
+DMD-01189,11/15/2020,4/13/2021,text,Authentic,0,true,Politics,YouTube,South Asia,149,Slow
+DMD-01190,5/15/2021,6/1/2021,video,Face2Face,1,half-true,Politics,YouTube,North America,17,Fast
+DMD-01191,2/13/2020,3/16/2020,video,Face2Face,1,mostly-false,War/Conflict,Telegram,Middle East,32,Medium
+DMD-01192,7/18/2021,11/21/2021,image,GAN-Generated,1,true,Entertainment,Twitter/X,South Asia,126,Slow
+DMD-01193,11/10/2021,12/2/2021,video,NeuralTextures,1,false,Entertainment,Twitter/X,Middle East,22,Fast
+DMD-01194,5/15/2022,7/3/2022,text,Authentic,0,false,Health/Medical,TikTok,East Asia,49,Medium
+DMD-01195,4/5/2023,4/15/2023,video,Face2Face,1,true,Health/Medical,Instagram,Middle East,10,Fast
+DMD-01196,8/27/2020,12/9/2020,multimodal,Authentic,0,false,Crime/Law,Facebook,Southeast Asia,104,Slow
+DMD-01197,11/20/2022,2/2/2023,video,DeepFaceLab,1,half-true,Finance,Reddit,Southeast Asia,74,Medium
+DMD-01198,8/3/2020,12/1/2020,image,Inpainting,1,true,Science,TikTok,Oceania,120,Slow
+DMD-01199,7/31/2021,10/9/2021,video,Authentic,0,mostly-false,Environment,YouTube,Europe,70,Medium
+DMD-01200,4/9/2022,6/1/2022,video,NeuralTextures,1,true,Science,News Website,South Asia,53,Medium
