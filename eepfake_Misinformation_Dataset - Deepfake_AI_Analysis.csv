@@ -1,0 +1,49 @@
+RECORD ID,PUBLICATION DATE,DETECTION DATE,CONTENT TYPE,MANIPULATION METHOD,LABEL BINARY,VERACITY CLEAN,TOPIC,PLATFORM,GEOGRAPHICAL REGION,DETECTION LAG (DAYS),DETECTION SPEED,AI_PRIORITY,AI_RECOMMENDED_ACTION,AI_RISK_FACTOR,,AI Priority Summary,,,,,,
+DMD-00001,7/17/2020,9/18/2020,audio,VoiceConversion,1,mostly-false,Sports,YouTube,Latin America,63,Medium,High,Remove content immediately and escalate to YouTube's audio deepfake detection pipeline for retroactive scanning of similar VoiceConversion content in the Latin America region.,Sports misinformation spreads virally through fan communities — a 63-day undetected window means significant audience exposure and potential reputational harm to athletes.,,8,,,,,,
+DMD-00002,11/20/2020,12/17/2020,video,Authentic,0,mostly-true,Politics,Twitter/X,Middle East,27,Fast,Low,No removal needed — mark as authentic and close case.,Authentic political content in the Middle East can still be miscontextualised by bad actors even without manipulation.,,4,,,,,,
+DMD-00003,10/31/2022,4/15/2023,video,Face2Face,1,mostly-true,Politics,Instagram,Southeast Asia,166,Slow,High,Remove immediately and audit Instagram's Face2Face detection capability in Southeast Asia for systemic gaps.,166-day lag on political deepfakes in Southeast Asia indicates critical regional enforcement blind spot.,,6,,,,,,
+DMD-00004,10/11/2019,2/19/2020,image,Splicing,1,pants-fire,War/Conflict,Instagram,East Asia,131,Slow,High,Remove and escalate to war/conflict rapid response team for cross-platform spread assessment.,War/conflict spliced imagery can incite real-world violence — 131-day detection window is a severe safety risk.,,,,,,,,
+DMD-00005,1/13/2023,3/22/2023,video,SimSwap,1,mostly-true,Entertainment,YouTube,Sub-Saharan Africa,68,Medium,Medium,Remove content and flag SimSwap technique for enhanced scanning in Sub-Saharan Africa region.,"Entertainment deepfakes normalise synthetic media consumption, reducing audience scepticism over time.",,,,,,,,
+DMD-00006,9/13/2022,1/13/2023,image,StyleGAN2,1,true,Politics,Facebook,Middle East,122,Slow,High,Remove and issue policy violation to account — escalate StyleGAN2 political content for regional task force review.,AI-generated political imagery in the Middle East with 122-day lag poses significant election integrity and civil unrest risk.,,,,,,,,
+DMD-00007,3/6/2019,5/30/2019,video,FaceSwap,1,true,Science,Twitter/X,Latin America,85,Medium,Medium,Remove and add to science misinformation watchlist for Latin America.,Deepfake science content erodes public trust in legitimate research and expert voices.,,,,,,,,
+DMD-00008,7/24/2020,11/20/2020,image,Copy-Move,1,mostly-true,Sports,Facebook,East Asia,119,Slow,Medium,Remove content and flag account for repeat monitoring.,Sports image manipulation spreads rapidly during live events — 119-day lag means multiple viral cycles likely occurred.,,,,,,,,
+DMD-00009,11/14/2019,1/2/2020,image,GAN-Generated,1,pants-fire,Health/Medical,TikTok,Middle East,49,Medium,High,Remove immediately and escalate to health misinformation rapid response team.,Medical misinformation on TikTok reaches young audiences quickly — GAN-generated health content can cause direct harm through false treatment guidance.,,,,,,,,
+DMD-00010,2/23/2020,8/13/2020,image,Authentic,0,pants-fire,War/Conflict,YouTube,Latin America,172,Slow,Low,"Close case — content is authentic, no removal needed.",Authentic war/conflict content can still be weaponised through false contextualisation despite being unmanipulated.,,,,,,,,
+DMD-00011,8/25/2019,9/22/2019,multimodal,Video+Audio-Sync-Fake,1,true,Health/Medical,Facebook,East Asia,28,Fast,High,Remove immediately — multimodal health deepfakes require cross-team escalation to both video and audio detection units.,Synchronised video+audio fakes are highly convincing and particularly dangerous in health contexts where trust in the speaker drives behaviour change.,,,,,,,,
+DMD-00012,3/23/2019,6/23/2019,multimodal,Authentic,0,false,Health/Medical,YouTube,Europe,92,Slow,Low,"Close case — authentic content, no enforcement action required.",Authentic health content misclassified as fake risks over-enforcement and erosion of creator trust.,,,,,,,,
+DMD-00013,8/6/2022,12/15/2022,multimodal,Image+Caption-Mismatch,1,half-true,Politics,TikTok,South Asia,131,Slow,High,Remove and audit caption-image matching detection capability on TikTok for South Asia political content.,Caption mismatches on political content in South Asia are a known election interference vector — 131-day lag is unacceptable.,,,,,,,,
+DMD-00014,9/25/2020,3/15/2021,audio,TTS-Neural,1,half-true,Entertainment,TikTok,Southeast Asia,171,Slow,Medium,Remove content and flag TTS-Neural audio pattern for automated detection improvement on TikTok.,Neural text-to-speech fakes are nearly indistinguishable to human reviewers — 171-day lag signals tooling gap.,,,,,,,,
+DMD-00015,6/19/2023,8/2/2023,image,Authentic,0,false,Health/Medical,Twitter/X,Europe,44,Medium,Low,"Close case — authentic content confirmed, no action needed.",Over-flagging authentic health content damages platform credibility with medical professionals.,,,,,,,,
+DMD-00016,5/14/2023,8/31/2023,text,Authentic,0,half-true,Sports,Telegram,East Asia,109,Slow,Low,"Close case — authentic content, no enforcement action required.",Authentic sports content on Telegram with long detection lag suggests over-sensitive text detection models needing recalibration.,,,,,,,,
+DMD-00017,7/10/2021,9/15/2021,video,DeepFaceLab,1,half-true,War/Conflict,News Website,North America,67,Medium,High,Remove and notify news website editorial team — escalate to war/conflict misinformation task force.,DeepFaceLab war/conflict content on news platforms carries highest credibility risk as audiences trust news sources implicitly.,,,,,,,,
+DMD-00018,9/3/2020,12/12/2020,image,Authentic,0,mostly-false,Politics,Twitter/X,Middle East,100,Slow,Low,"Close case — authentic content, no removal needed.",Authentic political content in the Middle East with 100-day detection lag suggests regional detection models flagging too broadly.,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,PROMPT TEMPLATE
+,,,,,,,,,,,,,,,,,,,,,,"You are a Trust & Safety policy analyst reviewing deepfake misinformation cases. 
+
+Analyse this case and respond in exactly this format:
+PRIORITY: [High/Medium/Low]
+ACTION: [one sentence recommended action]
+RISK: [one sentence key risk factor]
+
+Case details:
+Content Type: [CONTENT_TYPE]
+Manipulation: [MANIPULATION_METHOD]
+Topic: [TOPIC]
+Platform: [PLATFORM]
+Region: [GEOGRAPHICAL_REGION]
+Veracity: [VERACITY_CLEAN]
+Detection Lag: [DETECTION_LAG] days"
